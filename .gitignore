@@ -1,0 +1,24 @@
+*.dll
+*.log
+*.dat
+*.md
+installation_state.yml
+manifest.json
+**/moresuits/advanced/*.json
+License*
+credits*
+installing.txt
+BepInEx/core
+
+# Image, sounds, etc
+*.png
+*.wav
+*.mp3
+
+# Bundled binary data
+lethalthings
+lethalextras
+hdlethalcompany
+animationsbundle
+animatorbundle
+shipupgrades
