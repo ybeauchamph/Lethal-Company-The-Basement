@@ -193,9 +193,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\BrotherPig-Sasquatch_Suits\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BrotherPig-Sasquatch_Suits\1.0.0\icon.png
 - manifestVersion: 1
   name: no00ob-LCSoundTool
   authorName: no00ob
@@ -1031,4 +1030,167 @@
     minor: 12
     patch: 4
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MassiveNewCoilers-FixCentipedeLag\2023.12.4\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\MassiveNewCoilers-FixCentipedeLag\icon.png
+- manifestVersion: 1
+  name: TeamClark-ODST_Suit
+  authorName: TeamClark
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TeamClark/ODST_Suit/
+  displayName: ODST_Suit
+  description: Adds an ODST suit from Halo to the game. Requires the More Suits
+    mod to appear.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - x753-More_Suits-1.3.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\TeamClark-ODST_Suit\icon.png
+- manifestVersion: 1
+  name: TeamClark-BigBossSuit
+  authorName: TeamClark
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TeamClark/BigBossSuit/
+  displayName: BigBossSuit
+  description: Adds Big Boss from Metal Gear to the game as a wearable suit.
+    Requires the More Suits mod to appear. Skin created by Travp333 on the LC
+    Modding Discord and uploaded with their permission.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - x753-More_Suits-1.3.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\TeamClark-BigBossSuit\icon.png
+- manifestVersion: 1
+  name: Crab_imitation-Space_Pajamas_Suit
+  authorName: Crab_imitation
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Crab_imitation/Space_Pajamas_Suit/
+  displayName: Space_Pajamas_Suit
+  description: Adds a glow in the dark space pajamas suit.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - x753-More_Suits-1.3.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Crab_imitation-Space_Pajamas_Suit\icon.png
+- manifestVersion: 1
+  name: TeamClark-RustHazmatSuit
+  authorName: TeamClark
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TeamClark/RustHazmatSuit/
+  displayName: RustHazmatSuit
+  description: Adds the Hazmat suit from Rust to the game as a wearable suit.
+    Requires the More Suits mod to appear. Skin created by Travp333 on the LC
+    Modding Discord and uploaded at their request.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - x753-More_Suits-1.3.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\TeamClark-RustHazmatSuit\icon.png
+- manifestVersion: 1
+  name: MythicFrog-FrogSkins
+  authorName: MythicFrog
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MythicFrog/FrogSkins/
+  displayName: FrogSkins
+  description: Adds even more suits to choose from!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - x753-More_Suits-1.3.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 11
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\MythicFrog-FrogSkins\icon.png
+- manifestVersion: 1
+  name: Team_Waluigi-WaluigiSuit
+  authorName: Team_Waluigi
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Team_Waluigi/WaluigiSuit/
+  displayName: WaluigiSuit
+  description: Waluigi Time
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - x753-More_Suits-1.3.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Team_Waluigi-WaluigiSuit\icon.png
+- manifestVersion: 1
+  name: Verity-3rdPerson
+  authorName: Verity
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Verity/3rdPerson/
+  displayName: 3rdPerson
+  description: Toggle between first and third person with ease.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Verity-3rdPerson\icon.png
