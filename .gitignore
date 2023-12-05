@@ -2,6 +2,8 @@
 *.log
 *.dat
 *.md
+*.old
+*.zip
 installation_state.yml
 manifest.json
 **/moresuits/advanced/*.json

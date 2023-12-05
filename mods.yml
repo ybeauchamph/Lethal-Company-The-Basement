@@ -81,9 +81,8 @@
     major: 1
     minor: 0
     patch: 2
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\amnsoft-EmployeeAssignments\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\amnsoft-EmployeeAssignments\1.0.2\icon.png
 - manifestVersion: 1
   name: Blorb-WeatherMultipliers
   authorName: Blorb
@@ -673,9 +672,8 @@
     major: 0
     minor: 1
     patch: 5
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Mom_Llama-Lethal_Company_Enhancer\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mom_Llama-Lethal_Company_Enhancer\0.1.5\icon.png
 - manifestVersion: 1
   name: PanHouse-LethalClunk
   authorName: PanHouse
@@ -880,28 +878,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\tinyhoot-ShipLoot\icon.png
 - manifestVersion: 1
-  name: tinyhoot-ShipLobby
-  authorName: tinyhoot
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/
-  displayName: ShipLobby
-  description: Let people join late whenever you're in orbit in between missions.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 2
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\tinyhoot-ShipLobby\icon.png
-- manifestVersion: 1
   name: Venterok-HullBreaker_Company
   authorName: Venterok
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Venterok/HullBreaker_Company/
@@ -966,4 +942,93 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\vasanex-ItemQuickSwitch\1.1.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\vasanex-ItemQuickSwitch\icon.png
+- manifestVersion: 1
+  name: tinyhoot-ShipLobby
+  authorName: tinyhoot
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/
+  displayName: ShipLobby
+  description: Let people join late whenever you're in orbit in between missions.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\tinyhoot-ShipLobby\icon.png
+- manifestVersion: 1
+  name: Po-LCPocketBoombox
+  authorName: Po
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Po/LCPocketBoombox/
+  displayName: LCPocketBoombox
+  description: Do you want to listen to music on the go? Well now you can :)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Po-LCPocketBoombox\icon.png
+- manifestVersion: 1
+  name: EliteMasterEric-Coroner
+  authorName: EliteMasterEric
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/
+  displayName: Coroner
+  description: Rework the Performance Report with new info, including cause of death.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - 2018-LC_API-2.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
+- manifestVersion: 1
+  name: MassiveNewCoilers-FixCentipedeLag
+  authorName: MassiveNewCoilers
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MassiveNewCoilers/FixCentipedeLag/
+  displayName: FixCentipedeLag
+  description: Tries to remove sudden lag by destroying stuck centipede objects
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2023
+    minor: 12
+    patch: 4
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MassiveNewCoilers-FixCentipedeLag\2023.12.4\icon.png
