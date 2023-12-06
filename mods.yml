@@ -80,9 +80,10 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\amnsoft-EmployeeAssignments\1.0.2\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\amnsoft-EmployeeAssignments\icon.png
 - manifestVersion: 1
   name: Blorb-WeatherMultipliers
   authorName: Blorb
@@ -123,7 +124,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\x753-More_Suits\icon.png
@@ -238,7 +239,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Clementinise-CustomSounds\icon.png
@@ -371,8 +372,8 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 4
-    patch: 5
+    minor: 5
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalLib\icon.png
@@ -381,7 +382,8 @@
   authorName: Evaisa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
   displayName: LethalThings
-  description: Adds 6 scrap, 5 store items, 1 enemy, 3 decor, and 1 game mechanic.
+  description: Adds 6 scrap, 5 store items, 1 enemy, 3 decor, 1 map hazard, and 1
+    game mechanic.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -395,7 +397,7 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 4
+    minor: 5
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -670,9 +672,9 @@
   versionNumber:
     major: 0
     minor: 1
-    patch: 5
+    patch: 6
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mom_Llama-Lethal_Company_Enhancer\0.1.5\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mom_Llama-Lethal_Company_Enhancer\0.1.6\icon.png
 - manifestVersion: 1
   name: PanHouse-LethalClunk
   authorName: PanHouse
@@ -894,7 +896,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Venterok-HullBreaker_Company\icon.png
@@ -916,8 +918,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 3
+    minor: 1
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\x753-Mimics\icon.png
@@ -1086,7 +1088,7 @@
   authorName: Crab_imitation
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Crab_imitation/Space_Pajamas_Suit/
   displayName: Space_Pajamas_Suit
-  description: Adds a glow in the dark space pajamas suit.
+  description: Adds 3 different glow in the dark space pajamas suit.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1099,7 +1101,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Crab_imitation-Space_Pajamas_Suit\icon.png
@@ -1190,7 +1192,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 8
+    patch: 9
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Verity-3rdPerson\icon.png
