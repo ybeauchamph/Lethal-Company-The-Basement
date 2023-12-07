@@ -82,8 +82,7 @@
     minor: 0
     patch: 3
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\amnsoft-EmployeeAssignments\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\amnsoft-EmployeeAssignments\1.0.3\icon.png
 - manifestVersion: 1
   name: Blorb-WeatherMultipliers
   authorName: Blorb
@@ -582,9 +581,8 @@
     major: 1
     minor: 0
     patch: 6
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\KoderTeh-Boombox_Controller\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KoderTeh-Boombox_Controller\1.0.6\icon.png
 - manifestVersion: 1
   name: malco-Lategame_Upgrades
   authorName: malco
@@ -769,7 +767,7 @@
   authorName: Sligili
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
   displayName: More_Emotes
-  description: Currently adds one more emote (Custom keybinds supported)
+  description: Currently adds four more emotes (Custom keybinds supported)
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -781,11 +779,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
+    minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Sligili-More_Emotes\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sligili-More_Emotes\1.1.0\icon.png
 - manifestVersion: 1
   name: Stoners-SpiderManSuitV2
   authorName: Stoners
@@ -1196,3 +1193,92 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Verity-3rdPerson\icon.png
+- manifestVersion: 1
+  name: steven4547466-CommandHandler
+  authorName: steven4547466
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/steven4547466/CommandHandler/
+  displayName: CommandHandler
+  description: A dependency mod for developers to easily add commands.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\steven4547466-CommandHandler\icon.png
+- manifestVersion: 1
+  name: steven4547466-YoutubeBoombox
+  authorName: steven4547466
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/steven4547466/YoutubeBoombox/
+  displayName: YoutubeBoombox
+  description: Play any youtube video through the boombox! Syncs with all players
+    (that have the mod)!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - 2018-LC_API-1.2.1
+    - steven4547466-CommandHandler-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\steven4547466-YoutubeBoombox\icon.png
+- manifestVersion: 1
+  name: RugbugRedfern-Skinwalkers
+  authorName: RugbugRedfern
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/
+  displayName: Skinwalkers
+  description: The monsters have learned how to mimic the voices of your friends.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+- manifestVersion: 1
+  name: EliteMasterEric-SlimeTamingFix
+  authorName: EliteMasterEric
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix/
+  displayName: SlimeTamingFix
+  description: Fixes a bug that made Hygroderes unable to be tamed with Boomboxes.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\EliteMasterEric-SlimeTamingFix\icon.png

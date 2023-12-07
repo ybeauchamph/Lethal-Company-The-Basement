@@ -4,6 +4,7 @@
 *.md
 *.old
 *.zip
+*.exe
 installation_state.yml
 manifest.json
 **/moresuits/advanced/*.json
