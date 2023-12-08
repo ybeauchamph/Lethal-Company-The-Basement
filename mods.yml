@@ -304,7 +304,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 6
+    minor: 7
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -371,8 +371,8 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 5
-    patch: 1
+    minor: 6
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalLib\icon.png
@@ -397,7 +397,7 @@
   versionNumber:
     major: 0
     minor: 5
-    patch: 0
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalThings\icon.png
@@ -580,9 +580,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 6
+    patch: 7
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KoderTeh-Boombox_Controller\1.0.6\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KoderTeh-Boombox_Controller\1.0.7\icon.png
 - manifestVersion: 1
   name: malco-Lategame_Upgrades
   authorName: malco
@@ -606,7 +606,8 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\malco-Lategame_Upgrades\2.1.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
 - manifestVersion: 1
   name: MetalPipeSFX-HornMoan
   authorName: MetalPipeSFX
@@ -758,7 +759,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Sligili-HDLethalCompany\icon.png
@@ -894,7 +895,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 4
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Venterok-HullBreaker_Company\icon.png
@@ -1028,7 +1029,7 @@
   versionNumber:
     major: 2023
     minor: 12
-    patch: 4
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\MassiveNewCoilers-FixCentipedeLag\icon.png
@@ -1234,8 +1235,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 3
+    minor: 2
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\steven4547466-YoutubeBoombox\icon.png
@@ -1252,12 +1253,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - 2018-LC_API-2.1.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
@@ -1279,7 +1281,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\EliteMasterEric-SlimeTamingFix\icon.png
@@ -1372,3 +1374,93 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\ATK-LaterNights\icon.png
+- manifestVersion: 1
+  name: Stoneman-LethalProgression
+  authorName: Stoneman
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/
+  displayName: LethalProgression
+  description: Leveling and skillpoints!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Stoneman-LethalProgression\icon.png
+- manifestVersion: 1
+  name: BLKNeko-HookGun
+  authorName: BLKNeko
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BLKNeko/HookGun/
+  displayName: HookGun
+  description: A HookGun for LethalCompany, maybe a LethalHook? - THE COMPANY APPROVES!!!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Evaisa-LethalLib-0.5.1
+    - BepInEx-BepInExPack-5.4.2100
+    - 2018-LC_API-2.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\BLKNeko-HookGun\icon.png
+- manifestVersion: 1
+  name: NiceHairs-Symbiosis
+  authorName: NiceHairs
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/
+  displayName: Symbiosis
+  description: Make items, monsters and players interact together.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\NiceHairs-Symbiosis\icon.png
+- manifestVersion: 1
+  name: boxofbiscuits97-QuotaRollover
+  authorName: boxofbiscuits97
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover/
+  displayName: QuotaRollover
+  description: Anti-hoarding technology that only removes required credits for the
+    quota instead of setting progress to 0
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\boxofbiscuits97-QuotaRollover\2.0.0\icon.png
