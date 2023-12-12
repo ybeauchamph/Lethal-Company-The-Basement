@@ -1465,3 +1465,70 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
+- manifestVersion: 1
+  name: HolographicWings-LethalExpansion
+  authorName: HolographicWings
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/
+  displayName: LethalExpansion
+  description: Large game expansion with SDK support and a plenty of features.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 9
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
+- manifestVersion: 1
+  name: sfDesat-Orion
+  authorName: sfDesat
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/
+  displayName: Orion
+  description: Adds a new moon, good luck.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - HolographicWings-LethalExpansion-1.1.9
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 3
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\sfDesat-Orion\icon.png
+- manifestVersion: 1
+  name: HomelessGinger-MaskedEnemyOverhaul
+  authorName: HomelessGinger
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/
+  displayName: MaskedEnemyOverhaul
+  description: Removes the mask from the mimic enemy, wears a suit of a random
+    player (even modded ones), and allows spawning on all moons without needing
+    the mask items
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HomelessGinger-MaskedEnemyOverhaul\1.0.3\icon.png

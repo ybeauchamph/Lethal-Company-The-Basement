@@ -6,6 +6,7 @@
 *.zip
 *.exe
 *.pdb
+*.lem
 installation_state.yml
 manifest.json
 **/moresuits/advanced/*.json
