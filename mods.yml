@@ -781,8 +781,9 @@
     major: 1
     minor: 1
     patch: 3
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sligili-More_Emotes\1.1.3\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Sligili-More_Emotes\icon.png
 - manifestVersion: 1
   name: Stoners-SpiderManSuitV2
   authorName: Stoners
@@ -1480,8 +1481,8 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 4
-  enabled: true
+    patch: 5
+  enabled: false
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\TwinDimensionalProductions-DanceOff\icon.png
 - manifestVersion: 1
