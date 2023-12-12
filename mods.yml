@@ -829,11 +829,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
+    minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\x753-Mimics\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\x753-Mimics\2.1.0\icon.png
 - manifestVersion: 1
   name: vasanex-ItemQuickSwitch
   authorName: vasanex
@@ -1531,4 +1530,5 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HomelessGinger-MaskedEnemyOverhaul\1.0.3\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
