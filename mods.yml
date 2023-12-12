@@ -102,9 +102,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Blorb-WeatherMultipliers\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Blorb-WeatherMultipliers\1.0.0\icon.png
 - manifestVersion: 1
   name: x753-More_Suits
   authorName: x753
@@ -984,9 +983,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Po-LCPocketBoombox\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Po-LCPocketBoombox\1.0.0\icon.png
 - manifestVersion: 1
   name: EliteMasterEric-Coroner
   authorName: EliteMasterEric
@@ -1483,8 +1481,7 @@
     minor: 0
     patch: 5
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\TwinDimensionalProductions-DanceOff\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TwinDimensionalProductions-DanceOff\1.0.5\icon.png
 - manifestVersion: 1
   name: Agutrot-ShrekSuit
   authorName: Agutrot
