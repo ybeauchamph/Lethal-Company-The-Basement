@@ -5,6 +5,7 @@
 *.old
 *.zip
 *.exe
+*.pdb
 installation_state.yml
 manifest.json
 **/moresuits/advanced/*.json
@@ -27,3 +28,4 @@ animatorbundle
 shipupgrades
 suitselect
 skillmenu
+audionetworkhandler

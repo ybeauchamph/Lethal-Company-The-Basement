@@ -35,7 +35,7 @@
   versionNumber:
     major: 2
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\2018-LC_API\icon.png
@@ -80,9 +80,10 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 5
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\amnsoft-EmployeeAssignments\1.0.3\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\amnsoft-EmployeeAssignments\icon.png
 - manifestVersion: 1
   name: Blorb-WeatherMultipliers
   authorName: Blorb
@@ -200,8 +201,8 @@
   authorName: no00ob
   websiteUrl: https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/
   displayName: LCSoundTool
-  description: Let's you easily load audio files, replace any in game audio clip
-    and log any audio playback into console.
+  description: Let's you easily load audio files, replace in game audio, send
+    audio over the network and log any audio playback into console.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -213,7 +214,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
+    minor: 3
     patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -236,9 +237,9 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 2
-    patch: 4
+    major: 2
+    minor: 0
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Clementinise-CustomSounds\icon.png
@@ -305,7 +306,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
@@ -372,7 +373,7 @@
   versionNumber:
     major: 0
     minor: 6
-    patch: 0
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalLib\icon.png
@@ -381,7 +382,7 @@
   authorName: Evaisa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
   displayName: LethalThings
-  description: Adds 6 scrap, 5 store items, 1 enemy, 3 decor, 1 map hazard, and 1
+  description: Adds 7 scrap, 5 store items, 1 enemy, 3 decor, 1 map hazard, and 1
     game mechanic.
   gameVersion: "0"
   networkMode: both
@@ -396,10 +397,11 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 6
-    patch: 0
+    minor: 7
+    patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalThings\0.6.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Evaisa-LethalThings\icon.png
 - manifestVersion: 1
   name: FlipMods-FasterItemDropship
   authorName: FlipMods
@@ -579,16 +581,15 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 9
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KoderTeh-Boombox_Controller\1.0.7\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KoderTeh-Boombox_Controller\1.0.9\icon.png
 - manifestVersion: 1
   name: malco-Lategame_Upgrades
   authorName: malco
   websiteUrl: https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/
   displayName: Lategame_Upgrades
-  description: V2.1.0! 14 new powerful upgrades to extend lategame, Pager and
-    Locksmith added.
+  description: "V2.5.0 : Configurable individual upgrades."
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -596,14 +597,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.6.2
     - Evaisa-HookGenPatcher-0.0.5
-    - Evaisa-LethalLib-0.4.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 1
-    patch: 0
+    minor: 5
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
@@ -624,7 +625,7 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
+    minor: 1
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -670,9 +671,9 @@
   versionNumber:
     major: 0
     minor: 1
-    patch: 6
+    patch: 8
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mom_Llama-Lethal_Company_Enhancer\0.1.6\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mom_Llama-Lethal_Company_Enhancer\0.1.8\icon.png
 - manifestVersion: 1
   name: PanHouse-LethalClunk
   authorName: PanHouse
@@ -700,8 +701,30 @@
   authorName: Renegades
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/
   displayName: FlashlightToggle
-  description: Press F to toggle a flashlight in your inventory no matter what
-    you're holding. CLIENT SIDE.
+  description: Press F to toggle a flashlight in your inventory. CLIENT SIDE.
+    REBINDABLE IN-GAME
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Renegades-FlashlightToggle\icon.png
+- manifestVersion: 1
+  name: Renegades-WalkieUse
+  authorName: Renegades
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/
+  displayName: WalkieUse
+  description: Press R to use a walkie talkie in your inventory. CLIENT SIDE.
+    REBINDABLE IN-GAME
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -714,28 +737,6 @@
     major: 1
     minor: 3
     patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Renegades-FlashlightToggle\icon.png
-- manifestVersion: 1
-  name: Renegades-WalkieUse
-  authorName: Renegades
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/
-  displayName: WalkieUse
-  description: Press R to use a walkie talkie in your inventory no matter what
-    you're holding. CLIENT SIDE.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies: []
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Renegades-WalkieUse\icon.png
@@ -767,7 +768,7 @@
   authorName: Sligili
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
   displayName: More_Emotes
-  description: Currently adds four more emotes (Custom keybinds supported)
+  description: "[v45/v40] Currently adds four more emotes"
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -780,7 +781,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 1
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Sligili-More_Emotes\icon.png
@@ -894,7 +895,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 7
+    patch: 8
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Venterok-HullBreaker_Company\icon.png
@@ -915,9 +916,9 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 1
-    patch: 1
+    major: 2
+    minor: 0
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\x753-Mimics\icon.png
@@ -1099,7 +1100,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 5
+    patch: 6
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Crab_imitation-Space_Pajamas_Suit\icon.png
@@ -1189,8 +1190,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 9
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Verity-3rdPerson\icon.png
@@ -1235,7 +1236,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\steven4547466-YoutubeBoombox\icon.png
@@ -1252,13 +1253,12 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - 2018-LC_API-2.1.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
+    major: 2
     minor: 0
-    patch: 7
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
@@ -1334,7 +1334,7 @@
   authorName: Hexnet111
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/
   displayName: SuitSaver
-  description: A plugin for saving your last used suit.
+  description: A plugin for saving your last used suit. (Compatible with v45)
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1347,7 +1347,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Hexnet111-SuitSaver\icon.png
@@ -1390,8 +1390,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
-    patch: 2
+    minor: 3
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Stoneman-LethalProgression\icon.png
@@ -1437,7 +1437,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\NiceHairs-Symbiosis\icon.png
