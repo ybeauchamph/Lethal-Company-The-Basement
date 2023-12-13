@@ -1530,3 +1530,25 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
+- manifestVersion: 1
+  name: FlipMods-ObjectVolumeController
+  authorName: FlipMods
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/
+  displayName: ObjectVolumeController
+  description: Allows adjusting the volume on the media objects, such as
+    television, boombox, and record player, by pressing the [-] and [+] keys.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ObjectVolumeController\1.0.3\icon.png
