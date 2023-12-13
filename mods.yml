@@ -217,9 +217,8 @@
     major: 1
     minor: 0
     patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Drakorle-MoreItems\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Drakorle-MoreItems\1.0.1\icon.png
 - manifestVersion: 1
   name: e3s1-BetterLadders
   authorName: e3s1
@@ -262,7 +261,8 @@
     minor: 7
     patch: 2
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\notnotnotswipez-MoreCompany\1.7.2\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
 - manifestVersion: 1
   name: EliteMasterEric-WackyCosmetics
   authorName: EliteMasterEric
@@ -1281,9 +1281,8 @@
     major: 0
     minor: 9
     patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\ATK-LaterNights\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ATK-LaterNights\0.9.1\icon.png
 - manifestVersion: 1
   name: Stoneman-LethalProgression
   authorName: Stoneman
@@ -1527,8 +1526,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 4
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
