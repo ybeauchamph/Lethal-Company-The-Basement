@@ -101,7 +101,7 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\x753-More_Suits\icon.png
@@ -523,7 +523,7 @@
   authorName: malco
   websiteUrl: https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/
   displayName: Lategame_Upgrades
-  description: "V2.5.0 : Configurable individual upgrades."
+  description: "V2.6.1 : 4 new upgrades/items."
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -537,11 +537,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 5
+    minor: 6
     patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\malco-Lategame_Upgrades\2.6.1\icon.png
 - manifestVersion: 1
   name: MetalPipeSFX-HornMoan
   authorName: MetalPipeSFX
@@ -672,7 +671,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 3
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Sligili-HDLethalCompany\icon.png
@@ -696,8 +695,7 @@
     minor: 2
     patch: 1
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Sligili-More_Emotes\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sligili-More_Emotes\1.2.1\icon.png
 - manifestVersion: 1
   name: Stoners-SpiderManSuitV2
   authorName: Stoners
@@ -1482,8 +1480,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 9
+    minor: 2
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
@@ -1492,23 +1490,23 @@
   authorName: sfDesat
   websiteUrl: https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/
   displayName: Orion
-  description: Adds a new moon, good luck.
+  description: A new moon.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
-    - HolographicWings-LethalExpansion-1.1.9
+    - HolographicWings-LethalExpansion-1.2.5
     - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 4
-    patch: 1
+    minor: 5
+    patch: 0
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.4.1\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.0\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -1578,3 +1576,73 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Isbjorn52-MetalPipe\icon.png
+- manifestVersion: 1
+  name: Hexa-Hexas_Cosmetics
+  authorName: Hexa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hexa/Hexas_Cosmetics/
+  displayName: Hexas_Cosmetics
+  description: A colletion of cosmetics that i made for MoreCompany by notnotnotswipez
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - notnotnotswipez-MoreCompany-1.7.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Hexa-Hexas_Cosmetics\icon.png
+- manifestVersion: 1
+  name: Nebulaetrix-ELSlowdown
+  authorName: Nebulaetrix
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Nebulaetrix/ELSlowdown/
+  displayName: ELSlowdown
+  description: Earth Levithan emerging too fast after you only just heard the
+    rumble? Here's the solution
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Nebulaetrix-ELSlowdown\icon.png
+- manifestVersion: 1
+  name: ohotdog-LootableMusicTapes
+  authorName: ohotdog
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ohotdog/LootableMusicTapes/
+  displayName: LootableMusicTapes
+  description: Music cassettes spawn in the factory! Listen to them with the new
+    Walkman item. Cassettes function as scrap that can be collected or sold to
+    the company. Up to 20 hit songs can be found!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.6.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\ohotdog-LootableMusicTapes\icon.png
