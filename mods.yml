@@ -34,8 +34,8 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 1
-    patch: 2
+    minor: 2
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\2018-LC_API\icon.png
@@ -87,7 +87,8 @@
   authorName: x753
   websiteUrl: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
   displayName: More_Suits
-  description: Adds more suits to choose from, and allows you to customize them!
+  description: Adds more suits to choose from, and can be used as a library to
+    load your own suits!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -99,8 +100,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
-    patch: 3
+    minor: 4
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\x753-More_Suits\icon.png
@@ -193,7 +194,7 @@
   versionNumber:
     major: 2
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Clementinise-CustomSounds\icon.png
@@ -680,7 +681,7 @@
   authorName: Sligili
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
   displayName: More_Emotes
-  description: "[v45/v40] Currently adds four more emotes"
+  description: "[v45/v40] Adds more emotes!!"
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -692,10 +693,11 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 3
+    minor: 2
+    patch: 1
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sligili-More_Emotes\1.1.3\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Sligili-More_Emotes\icon.png
 - manifestVersion: 1
   name: Stoners-SpiderManSuitV2
   authorName: Stoners
@@ -806,7 +808,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 8
+    patch: 9
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Venterok-HullBreaker_Company\icon.png
@@ -1208,13 +1210,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - x753-More_Suits-1.3.3
+    - x753-More_Suits-1.4.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Verity-TooManySuits\icon.png
@@ -1257,8 +1259,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 3
+    minor: 1
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Hexnet111-SuitSaver\icon.png
@@ -1301,7 +1303,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Stoneman-LethalProgression\icon.png
@@ -1386,13 +1388,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Rune580-LethalCompany_InputUtils-0.3.0
+    - Rune580-LethalCompany_InputUtils-0.4.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\TwinDimensionalProductions-DanceOff\icon.png
@@ -1458,7 +1460,7 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 3
+    minor: 4
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -1503,18 +1505,18 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 3
-    patch: 2
+    minor: 4
+    patch: 1
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.3.2\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.4.1\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
   websiteUrl: https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/
   displayName: MaskedEnemyOverhaul
   description: Removes the mask from the mimic enemy, wears a suit of a random
-    player (even modded ones), and allows spawning on all moons without needing
-    the mask items
+    player (even modded ones), allows spawning on all moons without needing the
+    mask items, and a zombie apocalypse?
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1524,9 +1526,9 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 1
-    patch: 0
+    major: 2
+    minor: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
@@ -1551,4 +1553,28 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ObjectVolumeController\1.0.3\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\FlipMods-ObjectVolumeController\icon.png
+- manifestVersion: 1
+  name: Isbjorn52-MetalPipe
+  authorName: Isbjorn52
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Isbjorn52/MetalPipe/
+  displayName: MetalPipe
+  description: Replaces the shovel model with a metal pipe which plays the
+    appropriate sound effect when hitting something. *metal pipe falling sfx*
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - 2018-LC_API-1.2.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Isbjorn52-MetalPipe\icon.png
