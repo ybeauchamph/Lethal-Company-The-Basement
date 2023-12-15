@@ -1,1 +1,64 @@
-{"overrides":[{"action":"Emote3","origPath":"<Keyboard>/F3","path":"<Keyboard>/f6"},{"action":"Emote4","origPath":"<Keyboard>/F4","path":"<Keyboard>/f7"},{"action":"Emote5","origPath":"<Keyboard>/F5","path":"<Keyboard>/f8"},{"action":"Emote6","origPath":"<Keyboard>/F6","path":"<Keyboard>/f9"},{"action":"Emote7","origPath":"<Keyboard>/5","path":"<Keyboard>/f10"},{"action":"Emote8","origPath":"<Keyboard>/6","path":"<Keyboard>/f11"},{"action":"Emote9","origPath":"","path":"<Keyboard>/f3"},{"action":"Emote10","origPath":"","path":"<Keyboard>/f4"},{"action":"Emote11","origPath":"","path":"<Keyboard>/f5"}]}
+{
+    "overrides": [
+        {
+            "action": "Emote3",
+            "origPath": "<Keyboard>/F3",
+            "path": "<Keyboard>/f11"
+        },
+        {
+            "action": "Emote4",
+            "origPath": "<Keyboard>/F4",
+            "path": "<Keyboard>/f6"
+        },
+        {
+            "action": "Emote5",
+            "origPath": "<Keyboard>/F5",
+            "path": "<Keyboard>/f7"
+        },
+        {
+            "action": "Emote6",
+            "origPath": "<Keyboard>/F6",
+            "path": "<Keyboard>/f8"
+        },
+        {
+            "action": "Emote7",
+            "origPath": "<Keyboard>/5",
+            "path": "<Keyboard>/f9"
+        },
+        {
+            "action": "Emote8",
+            "origPath": "<Keyboard>/6",
+            "path": "<Keyboard>/f10"
+        },
+        {
+            "action": "CustomEmote9",
+            "origPath": "",
+            "path": "<Keyboard>/f3"
+        },
+        {
+            "action": "CustomEmote10",
+            "origPath": "",
+            "path": "<Keyboard>/f4"
+        },
+        {
+            "action": "CustomEmote11",
+            "origPath": "",
+            "path": "<Keyboard>/f5"
+        },
+        {
+            "action": "Emote9",
+            "origPath": "",
+            "path": "<Keyboard>/f3"
+        },
+        {
+            "action": "Emote10",
+            "origPath": "",
+            "path": "<Keyboard>/f4"
+        },
+        {
+            "action": "Emote11",
+            "origPath": "",
+            "path": "<Keyboard>/f5"
+        }
+    ]
+}

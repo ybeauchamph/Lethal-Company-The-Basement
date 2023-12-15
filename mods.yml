@@ -80,8 +80,9 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Blorb-WeatherMultipliers\1.0.0\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Blorb-WeatherMultipliers\icon.png
 - manifestVersion: 1
   name: x753-More_Suits
   authorName: x753
@@ -1370,10 +1371,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
+    minor: 1
     patch: 0
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\boxofbiscuits97-QuotaRollover\2.0.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\boxofbiscuits97-QuotaRollover\2.1.0\icon.png
 - manifestVersion: 1
   name: TwinDimensionalProductions-DanceOff
   authorName: TwinDimensionalProductions
@@ -1574,9 +1575,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Isbjorn52-MetalPipe\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Isbjorn52-MetalPipe\1.0.0\icon.png
 - manifestVersion: 1
   name: Hexa-Hexas_Cosmetics
   authorName: Hexa
@@ -1645,4 +1645,5 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ohotdog-LootableMusicTapes\1.0.1\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\ohotdog-LootableMusicTapes\icon.png
