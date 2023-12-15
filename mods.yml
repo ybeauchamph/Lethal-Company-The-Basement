@@ -540,7 +540,8 @@
     minor: 6
     patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\malco-Lategame_Upgrades\2.6.1\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
 - manifestVersion: 1
   name: MetalPipeSFX-HornMoan
   authorName: MetalPipeSFX
@@ -1642,7 +1643,6 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\ohotdog-LootableMusicTapes\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ohotdog-LootableMusicTapes\1.0.1\icon.png
