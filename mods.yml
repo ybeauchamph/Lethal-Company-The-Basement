@@ -314,7 +314,7 @@
   authorName: Evaisa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
   displayName: LethalLib
-  description: My personal modding tools for Lethal Company
+  description: My modding tools for Lethal Company
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -328,7 +328,7 @@
   versionNumber:
     major: 0
     minor: 6
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalLib\icon.png
@@ -913,12 +913,11 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - 2018-LC_API-2.1.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
+    minor: 3
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -1193,7 +1192,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\EliteMasterEric-SlimeTamingFix\icon.png
@@ -1260,7 +1259,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Hexnet111-SuitSaver\icon.png
@@ -1461,7 +1460,7 @@
   versionNumber:
     major: 0
     minor: 4
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
@@ -1483,10 +1482,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 5
+    patch: 7
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HolographicWings-LethalExpansion\1.2.7\icon.png
 - manifestVersion: 1
   name: sfDesat-Orion
   authorName: sfDesat
@@ -1499,16 +1497,16 @@
   installMode: managed
   loaders: []
   dependencies:
-    - HolographicWings-LethalExpansion-1.2.5
+    - HolographicWings-LethalExpansion-1.2.6
     - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 5
-    patch: 0
+    patch: 2
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.2\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger

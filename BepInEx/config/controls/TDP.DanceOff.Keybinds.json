@@ -31,21 +31,6 @@
             "path": "<Keyboard>/f10"
         },
         {
-            "action": "CustomEmote9",
-            "origPath": "",
-            "path": "<Keyboard>/f3"
-        },
-        {
-            "action": "CustomEmote10",
-            "origPath": "",
-            "path": "<Keyboard>/f4"
-        },
-        {
-            "action": "CustomEmote11",
-            "origPath": "",
-            "path": "<Keyboard>/f5"
-        },
-        {
             "action": "Emote9",
             "origPath": "",
             "path": "<Keyboard>/f3"
