@@ -830,11 +830,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 1
+    minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\x753-Mimics\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\x753-Mimics\2.2.0\icon.png
 - manifestVersion: 1
   name: vasanex-ItemQuickSwitch
   authorName: vasanex
@@ -1149,7 +1148,8 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\steven4547466-YoutubeBoombox\1.5.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\steven4547466-YoutubeBoombox\icon.png
 - manifestVersion: 1
   name: RugbugRedfern-Skinwalkers
   authorName: RugbugRedfern
@@ -1458,7 +1458,7 @@
   versionNumber:
     major: 0
     minor: 4
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
