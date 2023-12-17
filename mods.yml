@@ -1437,9 +1437,8 @@
     major: 1
     minor: 0
     patch: 2
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\matsuura-HealthMetrics\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\matsuura-HealthMetrics\1.0.2\icon.png
 - manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
@@ -1898,4 +1897,341 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Nips-Brutal_Company_Plus\3.4.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Nips-Brutal_Company_Plus\icon.png
+- manifestVersion: 1
+  name: AllToasters-SpectateEnemies
+  authorName: AllToasters
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/
+  displayName: SpectateEnemies
+  description: Allows you to spectate enemies when dead.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
+- manifestVersion: 1
+  name: BatTeam-LethalFashion
+  authorName: BatTeam
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/
+  displayName: LethalFashion
+  description: Unlocks the green suit, hazard suit, and pajama suit by default.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\BatTeam-LethalFashion\icon.png
+- manifestVersion: 1
+  name: MegaPiggy-BuyableShotgunShells
+  authorName: MegaPiggy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/
+  displayName: BuyableShotgunShells
+  description: Adds shotgun shells to the store for 20 credits
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.3.0
+    - Evaisa-HookGenPatcher-0.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\MegaPiggy-BuyableShotgunShells\icon.png
+- manifestVersion: 1
+  name: Ozone-BepInUtils
+  authorName: Ozone
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/
+  displayName: BepInUtils
+  description: A library some of my mods depend on.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Ozone-BepInUtils\icon.png
+- manifestVersion: 1
+  name: Ozone-Disregard_Early_Voting
+  authorName: Ozone
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ozone/Disregard_Early_Voting/
+  displayName: Disregard_Early_Voting
+  description: New configuration options. Default is at least 2 people voting to
+    leave early.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Ozone-BepInUtils-1.2.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Ozone-Disregard_Early_Voting\icon.png
+- manifestVersion: 1
+  name: Backrooms-Backrooms
+  authorName: Backrooms
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/
+  displayName: Backrooms
+  description: Explore the Backrooms, a surreal labyrinth in this mod. Navigate
+    endless, eerie spaces, and uncover mysteries.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Evaisa-LethalLib-0.6.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Backrooms-Backrooms\icon.png
+- manifestVersion: 1
+  name: Sculas-BrutalCompanyAdditions
+  authorName: Sculas
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sculas/BrutalCompanyAdditions/
+  displayName: BrutalCompanyAdditions
+  description: Adds more events to Brutal Company Plus!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Nips-Brutal_Company_Plus-3.4.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Sculas-BrutalCompanyAdditions\icon.png
+- manifestVersion: 1
+  name: linkoid-DissonanceLagFix
+  authorName: linkoid
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/
+  displayName: DissonanceLagFix
+  description: This plugin significantly reduces the duration of lag spikes simply
+    by changing the log level of DissonanceVoip.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\linkoid-DissonanceLagFix\icon.png
+- manifestVersion: 1
+  name: jammeh-NoiseSuppression
+  authorName: jammeh
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/jammeh/NoiseSuppression/
+  displayName: NoiseSuppression
+  description: Enables noise suppression on microphones in Lethal Company
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\jammeh-NoiseSuppression\icon.png
+- manifestVersion: 1
+  name: Silvercore-Permanent_Ladder
+  authorName: Silvercore
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/
+  displayName: Permanent_Ladder
+  description: Extension Ladders will never retract.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Silvercore-Permanent_Ladder\icon.png
+- manifestVersion: 1
+  name: Sv_Matt-HideModList
+  authorName: Sv_Matt
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/
+  displayName: HideModList
+  description: Hides the mod list popup
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Sv_Matt-HideModList\icon.png
+- manifestVersion: 1
+  name: EladNLG-EladsHUD
+  authorName: EladNLG
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/
+  displayName: EladsHUD
+  description: Replaces the player hud with a different one.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\EladNLG-EladsHUD\icon.png
+- manifestVersion: 1
+  name: Norman-GlowStickSuits
+  authorName: Norman
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/
+  displayName: GlowStickSuits
+  description: NINE colors and they glow in the dark!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - x753-More_Suits-1.3.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Norman-GlowStickSuits\icon.png
+- manifestVersion: 1
+  name: ATK-UnlimitedTZP
+  authorName: ATK
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ATK/UnlimitedTZP/
+  displayName: UnlimitedTZP
+  description: Tired of running out of inhalent? Look no further!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 9
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\ATK-UnlimitedTZP\icon.png
+- manifestVersion: 1
+  name: TeamClark-Vault_Boy_Suit
+  authorName: TeamClark
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TeamClark/Vault_Boy_Suit/
+  displayName: Vault_Boy_Suit
+  description: Adds the Vault Boy from Fallout to the game as a wearable suit.
+    Requires the More Suits mod to appear.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - x753-More_Suits-1.3.1
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TeamClark-Vault_Boy_Suit\1.0.0\icon.png
