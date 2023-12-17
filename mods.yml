@@ -200,28 +200,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Clementinise-CustomSounds\icon.png
 - manifestVersion: 1
-  name: Drakorle-MoreItems
-  authorName: Drakorle
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/
-  displayName: MoreItems
-  description: Changes the max amount of items that the game saves from 45 to 999.
-    Requires BepInEx.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Drakorle-MoreItems\1.0.1\icon.png
-- manifestVersion: 1
   name: e3s1-BetterLadders
   authorName: e3s1
   websiteUrl: https://thunderstore.io/c/lethal-company/p/e3s1/BetterLadders/
@@ -880,27 +858,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\tinyhoot-ShipLobby\icon.png
 - manifestVersion: 1
-  name: Po-LCPocketBoombox
-  authorName: Po
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Po/LCPocketBoombox/
-  displayName: LCPocketBoombox
-  description: Do you want to listen to music on the go? Well now you can :)
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Po-LCPocketBoombox\1.0.0\icon.png
-- manifestVersion: 1
   name: EliteMasterEric-Coroner
   authorName: EliteMasterEric
   websiteUrl: https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/
@@ -1263,27 +1220,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Hexnet111-SuitSaver\icon.png
 - manifestVersion: 1
-  name: ATK-LaterNights
-  authorName: ATK
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/ATK/LaterNights/
-  displayName: LaterNights
-  description: Make your nights last longer
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 9
-    patch: 1
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ATK-LaterNights\0.9.1\icon.png
-- manifestVersion: 1
   name: Stoneman-LethalProgression
   authorName: Stoneman
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/
@@ -1351,28 +1287,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\NiceHairs-Symbiosis\icon.png
-- manifestVersion: 1
-  name: boxofbiscuits97-QuotaRollover
-  authorName: boxofbiscuits97
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover/
-  displayName: QuotaRollover
-  description: Anti-hoarding technology that only removes required credits for the
-    quota instead of setting progress to 0
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 1
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\boxofbiscuits97-QuotaRollover\2.1.0\icon.png
 - manifestVersion: 1
   name: TwinDimensionalProductions-DanceOff
   authorName: TwinDimensionalProductions
@@ -1552,28 +1466,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-ObjectVolumeController\icon.png
 - manifestVersion: 1
-  name: Isbjorn52-MetalPipe
-  authorName: Isbjorn52
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Isbjorn52/MetalPipe/
-  displayName: MetalPipe
-  description: Replaces the shovel model with a metal pipe which plays the
-    appropriate sound effect when hitting something. *metal pipe falling sfx*
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - 2018-LC_API-1.2.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Isbjorn52-MetalPipe\1.0.0\icon.png
-- manifestVersion: 1
   name: Hexa-Hexas_Cosmetics
   authorName: Hexa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Hexa/Hexas_Cosmetics/
@@ -1618,30 +1510,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Nebulaetrix-ELSlowdown\icon.png
-- manifestVersion: 1
-  name: ohotdog-LootableMusicTapes
-  authorName: ohotdog
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/ohotdog/LootableMusicTapes/
-  displayName: LootableMusicTapes
-  description: Music cassettes spawn in the factory! Listen to them with the new
-    Walkman item. Cassettes function as scrap that can be collected or sold to
-    the company. Up to 20 hit songs can be found!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.6.2
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ohotdog-LootableMusicTapes\1.0.1\icon.png
 - manifestVersion: 1
   name: BYRD-RandomHorn
   authorName: BYRD
@@ -2258,3 +2126,47 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Badham_Mods-SCPFoundationDungeon\icon.png
+- manifestVersion: 1
+  name: Po-LCPocketBoombox
+  authorName: Po
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Po/LCPocketBoombox/
+  displayName: LCPocketBoombox
+  description: Do you want to listen to music on the go? Well now you can :)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Po-LCPocketBoombox\icon.png
+- manifestVersion: 1
+  name: ViViKo-AllTheScrap
+  authorName: ViViKo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ViViKo/AllTheScrap/
+  displayName: AllTheScrap
+  description: Adds a bunch of scrap items. More soon
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.2.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ViViKo-AllTheScrap\1.0.1\icon.png
