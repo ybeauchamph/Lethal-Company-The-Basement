@@ -44,19 +44,19 @@
   authorName: AllToasters
   websiteUrl: https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/
   displayName: QuickRestart
-  description: A simple mod for Lethal Company that easily allows you to restart
-    your game by initiating the "You have been fired cutscene" early.
+  description: Allows you to easily restart your game via a command.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
-  dependencies: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
+    minor: 2
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -673,7 +673,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 5
+    patch: 6
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Sligili-HDLethalCompany\icon.png
@@ -695,9 +695,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 1
+    patch: 2
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sligili-More_Emotes\1.2.1\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sligili-More_Emotes\1.2.2\icon.png
 - manifestVersion: 1
   name: Stoners-SpiderManSuitV2
   authorName: Stoners
@@ -833,7 +833,8 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\x753-Mimics\2.2.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\x753-Mimics\icon.png
 - manifestVersion: 1
   name: vasanex-ItemQuickSwitch
   authorName: vasanex
@@ -1480,7 +1481,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 8
+    patch: 11
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
@@ -1496,16 +1497,16 @@
   installMode: managed
   loaders: []
   dependencies:
-    - HolographicWings-LethalExpansion-1.2.6
+    - HolographicWings-LethalExpansion-1.2.11
     - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 5
-    patch: 2
+    patch: 3
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.2\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.3\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -1524,8 +1525,8 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
-    patch: 1
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
@@ -1643,3 +1644,120 @@
     patch: 1
   enabled: false
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ohotdog-LootableMusicTapes\1.0.1\icon.png
+- manifestVersion: 1
+  name: BYRD-RandomHorn
+  authorName: BYRD
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BYRD/RandomHorn/
+  displayName: RandomHorn
+  description: Airhorn is replaced with 100+ random sound effects.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BYRD-RandomHorn\1.0.0\icon.png
+- manifestVersion: 1
+  name: taffyko-BetterSprayPaint
+  authorName: taffyko
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/
+  displayName: BetterSprayPaint
+  description: Infinite spray paint, significantly more responsive and reliable
+    painting, longer range, and an erase feature
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\taffyko-BetterSprayPaint\icon.png
+- manifestVersion: 1
+  name: TwinDimensionalProductions-CoilHeadStare
+  authorName: TwinDimensionalProductions
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/
+  displayName: CoilHeadStare
+  description: Makes the Coilhead slowly turn and face you even while you are
+    looking directly at it. Reminding you that it only needs you to falter for a
+    single moment.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\TwinDimensionalProductions-CoilHeadStare\icon.png
+- manifestVersion: 1
+  name: goblinfiend-Trophy
+  authorName: goblinfiend
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/goblinfiend/Trophy/
+  displayName: Trophy
+  description: Adds 3 trophy scraps into the game
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - HolographicWings-LethalExpansion-1.1.9
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\goblinfiend-Trophy\icon.png
+- manifestVersion: 1
+  name: MrBine-ChristmasSuits
+  authorName: MrBine
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MrBine/ChristmasSuits/
+  displayName: ChristmasSuits
+  description: Add Christmas Suits(37 But More Soon)All of this suit are included
+    in my first suits mods MrBineAndFriends so dont download if you have it
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Hexnet111-SuitSaver-1.1.2
+    - x753-More_Suits-1.4.1
+    - Verity-TooManySuits-1.0.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\MrBine-ChristmasSuits\icon.png
