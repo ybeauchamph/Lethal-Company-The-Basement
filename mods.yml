@@ -1393,10 +1393,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 13
+    patch: 14
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HolographicWings-LethalExpansion\1.2.14\icon.png
 - manifestVersion: 1
   name: sfDesat-Orion
   authorName: sfDesat
@@ -2169,4 +2168,5 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ViViKo-AllTheScrap\1.0.1\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\ViViKo-AllTheScrap\icon.png
