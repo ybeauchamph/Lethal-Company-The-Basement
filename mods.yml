@@ -562,8 +562,9 @@
     major: 2
     minor: 1
     patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MetalPipeSFX-HornMoan\2.1.0\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\MetalPipeSFX-HornMoan\icon.png
 - manifestVersion: 1
   name: Midge-PushCompany
   authorName: Midge
@@ -1662,9 +1663,8 @@
     major: 1
     minor: 1
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\BYRD-RandomHorn\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BYRD-RandomHorn\1.1.0\icon.png
 - manifestVersion: 1
   name: taffyko-BetterSprayPaint
   authorName: taffyko
