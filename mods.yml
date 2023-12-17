@@ -562,9 +562,8 @@
     major: 2
     minor: 1
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\MetalPipeSFX-HornMoan\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MetalPipeSFX-HornMoan\2.1.0\icon.png
 - manifestVersion: 1
   name: Midge-PushCompany
   authorName: Midge
@@ -1661,10 +1660,11 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
+    minor: 1
     patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BYRD-RandomHorn\1.0.0\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\BYRD-RandomHorn\icon.png
 - manifestVersion: 1
   name: taffyko-BetterSprayPaint
   authorName: taffyko
@@ -1761,3 +1761,25 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\MrBine-ChristmasSuits\icon.png
+- manifestVersion: 1
+  name: MoreLethal-NoBackgroundAudio
+  authorName: MoreLethal
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MoreLethal/NoBackgroundAudio/
+  displayName: NoBackgroundAudio
+  description: This plugin disables background audio for the game when
+    alt-tabbed(unfocused).
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\MoreLethal-NoBackgroundAudio\icon.png
