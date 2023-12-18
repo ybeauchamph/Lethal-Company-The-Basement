@@ -718,7 +718,7 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Suskitech-AlwaysHearActiveWalkies\icon.png
@@ -874,8 +874,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
-    patch: 1
+    minor: 4
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
@@ -898,9 +898,8 @@
     major: 2023
     minor: 12
     patch: 7
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\MassiveNewCoilers-FixCentipedeLag\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MassiveNewCoilers-FixCentipedeLag\2023.12.7\icon.png
 - manifestVersion: 1
   name: TeamClark-ODST_Suit
   authorName: TeamClark
@@ -1395,7 +1394,8 @@
     minor: 2
     patch: 14
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HolographicWings-LethalExpansion\1.2.14\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
 - manifestVersion: 1
   name: sfDesat-Orion
   authorName: sfDesat
@@ -1408,16 +1408,16 @@
   installMode: managed
   loaders: []
   dependencies:
-    - HolographicWings-LethalExpansion-1.2.11
+    - HolographicWings-LethalExpansion-1.2.14
     - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 5
-    patch: 3
+    patch: 5
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.3\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.5\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -1550,9 +1550,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\taffyko-BetterSprayPaint\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\taffyko-BetterSprayPaint\1.0.0\icon.png
 - manifestVersion: 1
   name: TwinDimensionalProductions-CoilHeadStare
   authorName: TwinDimensionalProductions
@@ -1594,9 +1593,9 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 2
-    patch: 0
+    major: 2
+    minor: 0
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\goblinfiend-Trophy\icon.png
@@ -1623,9 +1622,8 @@
     major: 1
     minor: 1
     patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\MrBine-ChristmasSuits\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrBine-ChristmasSuits\1.1.1\icon.png
 - manifestVersion: 1
   name: MoreLethal-NoBackgroundAudio
   authorName: MoreLethal
@@ -2170,3 +2168,94 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\ViViKo-AllTheScrap\icon.png
+- manifestVersion: 1
+  name: AquaEther-BeanSuit
+  authorName: AquaEther
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AquaEther/BeanSuit/
+  displayName: BeanSuit
+  description: Bean Suit YEAHHHH
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - x753-More_Suits-1.3.1
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\AquaEther-BeanSuit\icon.png
+- manifestVersion: 1
+  name: bandaidroo-BandaidsMegaCosmetics
+  authorName: bandaidroo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/bandaidroo/BandaidsMegaCosmetics/
+  displayName: BandaidsMegaCosmetics
+  description: A large cosmetic pack by Bandaid Roo for the MoreCompany Lethal
+    Company Mod by notnotnotswipez
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - notnotnotswipez-MoreCompany-1.7.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\bandaidroo-BandaidsMegaCosmetics\icon.png
+- manifestVersion: 1
+  name: Mischief-UnlimitedPaint
+  authorName: Mischief
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Mischief/UnlimitedPaint/
+  displayName: UnlimitedPaint
+  description: Never run out of paint!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Mischief-UnlimitedPaint\icon.png
+- manifestVersion: 1
+  name: IntegrityChaos-Diversity
+  authorName: IntegrityChaos
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/
+  displayName: Diversity
+  description: Diversity is a mod that revamps few aspects of the game. Generally
+    the entities itself.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\IntegrityChaos-Diversity\icon.png
