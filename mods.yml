@@ -770,27 +770,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\tinyhoot-ShipLoot\icon.png
 - manifestVersion: 1
-  name: Venterok-HullBreaker_Company
-  authorName: Venterok
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Venterok/HullBreaker_Company/
-  displayName: HullBreaker_Company
-  description: Making it more challenging to work for the company
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 3
-    patch: 9
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Venterok-HullBreaker_Company\1.3.9\icon.png
-- manifestVersion: 1
   name: x753-Mimics
   authorName: x753
   websiteUrl: https://thunderstore.io/c/lethal-company/p/x753/Mimics/
@@ -1416,9 +1395,8 @@
     major: 0
     minor: 5
     patch: 5
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\sfDesat-Orion\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.5\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -1532,28 +1510,6 @@
   enabled: false
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BYRD-RandomHorn\1.1.0\icon.png
 - manifestVersion: 1
-  name: taffyko-BetterSprayPaint
-  authorName: taffyko
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/
-  displayName: BetterSprayPaint
-  description: Infinite spray paint, significantly more responsive and reliable
-    painting, longer range, and an erase feature
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\taffyko-BetterSprayPaint\1.0.0\icon.png
-- manifestVersion: 1
   name: TwinDimensionalProductions-CoilHeadStare
   authorName: TwinDimensionalProductions
   websiteUrl: https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/
@@ -1600,31 +1556,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\goblinfiend-Trophy\icon.png
-- manifestVersion: 1
-  name: MrBine-ChristmasSuits
-  authorName: MrBine
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/MrBine/ChristmasSuits/
-  displayName: ChristmasSuits
-  description: Add Christmas Suits(37 But More Soon)All of this suit are included
-    in my first suits mods MrBineAndFriends so dont download if you have it
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Hexnet111-SuitSaver-1.1.2
-    - x753-More_Suits-1.4.1
-    - Verity-TooManySuits-1.0.4
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 1
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrBine-ChristmasSuits\1.1.1\icon.png
 - manifestVersion: 1
   name: MoreLethal-NoBackgroundAudio
   authorName: MoreLethal
@@ -1851,34 +1782,10 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Ozone-BepInUtils\icon.png
-- manifestVersion: 1
-  name: Ozone-Disregard_Early_Voting
-  authorName: Ozone
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ozone/Disregard_Early_Voting/
-  displayName: Disregard_Early_Voting
-  description: New configuration options. Default is at least 2 people voting to
-    leave early.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Ozone-BepInUtils-1.2.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 2
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Ozone-Disregard_Early_Voting\icon.png
 - manifestVersion: 1
   name: Backrooms-Backrooms
   authorName: Backrooms
