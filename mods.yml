@@ -1059,9 +1059,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\steven4547466-CommandHandler\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\steven4547466-CommandHandler\1.0.0\icon.png
 - manifestVersion: 1
   name: steven4547466-YoutubeBoombox
   authorName: steven4547466
