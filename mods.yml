@@ -62,27 +62,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\AllToasters-QuickRestart\icon.png
 - manifestVersion: 1
-  name: Blorb-WeatherMultipliers
-  authorName: Blorb
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/
-  displayName: WeatherMultipliers
-  description: Moons with active weather will contain scrap with higher value
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Blorb-WeatherMultipliers\1.0.0\icon.png
-- manifestVersion: 1
   name: x753-More_Suits
   authorName: x753
   websiteUrl: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
@@ -1041,26 +1020,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Verity-3rdPerson\icon.png
 - manifestVersion: 1
-  name: steven4547466-CommandHandler
-  authorName: steven4547466
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/steven4547466/CommandHandler/
-  displayName: CommandHandler
-  description: A dependency mod for developers to easily add commands.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies: []
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\steven4547466-CommandHandler\1.0.0\icon.png
-- manifestVersion: 1
   name: steven4547466-YoutubeBoombox
   authorName: steven4547466
   websiteUrl: https://thunderstore.io/c/lethal-company/p/steven4547466/YoutubeBoombox/
@@ -1669,7 +1628,8 @@
     minor: 4
     patch: 2
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShadowRocks2-ShadowsMemeMusic\1.4.2\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\ShadowRocks2-ShadowsMemeMusic\icon.png
 - manifestVersion: 1
   name: Nips-Brutal_Company_Plus
   authorName: Nips
@@ -2028,27 +1988,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Badham_Mods-SCPFoundationDungeon\icon.png
 - manifestVersion: 1
-  name: Po-LCPocketBoombox
-  authorName: Po
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Po/LCPocketBoombox/
-  displayName: LCPocketBoombox
-  description: Do you want to listen to music on the go? Well now you can :)
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Po-LCPocketBoombox\1.0.0\icon.png
-- manifestVersion: 1
   name: ViViKo-AllTheScrap
   authorName: ViViKo
   websiteUrl: https://thunderstore.io/c/lethal-company/p/ViViKo/AllTheScrap/
@@ -2117,27 +2056,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\bandaidroo-BandaidsMegaCosmetics\icon.png
-- manifestVersion: 1
-  name: Mischief-UnlimitedPaint
-  authorName: Mischief
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Mischief/UnlimitedPaint/
-  displayName: UnlimitedPaint
-  description: Never run out of paint!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mischief-UnlimitedPaint\1.0.0\icon.png
 - manifestVersion: 1
   name: IntegrityChaos-Diversity
   authorName: IntegrityChaos
