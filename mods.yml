@@ -1536,7 +1536,7 @@
   authorName: goblinfiend
   websiteUrl: https://thunderstore.io/c/lethal-company/p/goblinfiend/Trophy/
   displayName: Trophy
-  description: Adds 3 trophy scraps into the game
+  description: Adds 4 trophy scraps into the game
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1549,7 +1549,7 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 1
+    minor: 2
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -1667,10 +1667,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\ShadowRocks2-ShadowsMemeMusic\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShadowRocks2-ShadowsMemeMusic\1.4.2\icon.png
 - manifestVersion: 1
   name: Nips-Brutal_Company_Plus
   authorName: Nips
@@ -2325,3 +2324,71 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Hildebert-Hildebert_Angry_Indian_Scammer_Bug\icon.png
+- manifestVersion: 1
+  name: TheDeadSnake-Touchscreen
+  authorName: TheDeadSnake
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TheDeadSnake/Touchscreen/
+  displayName: Touchscreen
+  description: Allows players to interact with the ship monitor.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\TheDeadSnake-Touchscreen\icon.png
+- manifestVersion: 1
+  name: Hamunii-JetpackFallFix
+  authorName: Hamunii
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackFallFix/
+  displayName: JetpackFallFix
+  description: Fixes buggy jetpack fall damage logic, utilizing slight but
+    necessary creative freedom.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Hamunii-JetpackFallFix\icon.png
+- manifestVersion: 1
+  name: Hamunii-JetpackWarning
+  authorName: Hamunii
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackWarning/
+  displayName: JetpackWarning
+  description: Adds visual and audio indicators for when your jetpack may explode.
+    Now maintained by Hamunii.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Hamunii-JetpackWarning\icon.png
