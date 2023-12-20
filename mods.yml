@@ -80,9 +80,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Blorb-WeatherMultipliers\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Blorb-WeatherMultipliers\1.0.0\icon.png
 - manifestVersion: 1
   name: x753-More_Suits
   authorName: x753
@@ -305,8 +304,8 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 6
-    patch: 3
+    minor: 7
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalLib\icon.png
@@ -2048,9 +2047,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Po-LCPocketBoombox\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Po-LCPocketBoombox\1.0.0\icon.png
 - manifestVersion: 1
   name: ViViKo-AllTheScrap
   authorName: ViViKo
@@ -2139,9 +2137,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Mischief-UnlimitedPaint\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mischief-UnlimitedPaint\1.0.0\icon.png
 - manifestVersion: 1
   name: IntegrityChaos-Diversity
   authorName: IntegrityChaos
@@ -2263,7 +2260,7 @@
   websiteUrl: https://thunderstore.io/c/lethal-company/p/CTMods/ToemmsensCursedSoundMod/
   displayName: ToemmsensCursedSoundMod
   description: A mod that adds some cursed sound effects to the game. For example
-    some special screaming before a mine explodes.
+    scream Allahu Akbar before exploding to a mine.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -2276,6 +2273,31 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 3
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\CTMods-ToemmsensCursedSoundMod\1.0.1\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\CTMods-ToemmsensCursedSoundMod\icon.png
+- manifestVersion: 1
+  name: kyxino-LethalUtilities
+  authorName: kyxino
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/kyxino/LethalUtilities/
+  displayName: LethalUtilities
+  description: Unleash the CHAOS with LethalUtilities or keep things very vanilla,
+    the choice is yours. This is a VERY handy mod for modpacks as it can change
+    many variables in the game and can replace/complement many small mods.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 8
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\kyxino-LethalUtilities\icon.png
