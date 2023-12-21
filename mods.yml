@@ -196,8 +196,9 @@
     major: 1
     minor: 2
     patch: 2
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\e3s1-BetterLadders\1.2.2\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\e3s1-BetterLadders\icon.png
 - manifestVersion: 1
   name: notnotnotswipez-MoreCompany
   authorName: notnotnotswipez
@@ -400,8 +401,9 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-SkipToMultiplayerMenu\1.0.0\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\FlipMods-SkipToMultiplayerMenu\icon.png
 - manifestVersion: 1
   name: FutureSavior-CrankThatJester
   authorName: FutureSavior
