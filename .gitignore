@@ -7,6 +7,7 @@
 *.exe
 *.pdb
 *.lem
+*.mp4
 *.cosmetics
 installation_state.yml
 manifest.json
@@ -41,3 +42,4 @@ BepInEx/plugins/Backrooms-Backrooms/backrooms
 scpcb_dungeon
 diversity
 BepInEx/plugins/FlipMods-TooManyEmotes/Assets/
+BepInEx/plugins/Cryptoc1-LC_DOOM/DOOM1.WAD

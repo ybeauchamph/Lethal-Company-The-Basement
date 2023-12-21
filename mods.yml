@@ -2375,4 +2375,97 @@
     minor: 0
     patch: 7
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Piggy-JesterStompShake\1.0.7\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Piggy-JesterStompShake\icon.png
+- manifestVersion: 1
+  name: Cryptoc1-LC_DOOM
+  authorName: Cryptoc1
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Cryptoc1/LC_DOOM/
+  displayName: LC_DOOM
+  description: Play DOOM in the Ship's Terminal
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Cryptoc1-LC_DOOM\icon.png
+- manifestVersion: 1
+  name: Rattenbonkers-TVLoader
+  authorName: Rattenbonkers
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rattenbonkers/TVLoader/
+  displayName: TVLoader
+  description: Allows players to add custom videos to the Television.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Rattenbonkers-TVLoader\icon.png
+- manifestVersion: 1
+  name: 44ever-video_pack_for_TVLoader
+  authorName: 44ever
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/44ever/video_pack_for_TVLoader/
+  displayName: video_pack_for_TVLoader
+  description: this mod goes hand in hand with 44ever-suit_mashup_pack-X.X.X to
+    make loading videos easier for those in the friend group who arent as
+    techsavy as the others.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Rattenbonkers-TVLoader-1.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\44ever-video_pack_for_TVLoader\icon.png
+- manifestVersion: 1
+  name: 44ever-suit_mashup_pack
+  authorName: 44ever
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/44ever/suit_mashup_pack/
+  displayName: suit_mashup_pack
+  description: custom suits, suits from some other mods, custom videos for the
+    television, friend group pack type beat.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - 44ever-video_pack_for_TVLoader-1.0.4
+    - BepInEx-BepInExPack-5.4.2100
+    - Rattenbonkers-TVLoader-1.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 4
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\44ever-suit_mashup_pack\2.1.4\icon.png
