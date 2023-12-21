@@ -196,9 +196,8 @@
     major: 1
     minor: 2
     patch: 2
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\e3s1-BetterLadders\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\e3s1-BetterLadders\1.2.2\icon.png
 - manifestVersion: 1
   name: notnotnotswipez-MoreCompany
   authorName: notnotnotswipez
@@ -401,9 +400,8 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\FlipMods-SkipToMultiplayerMenu\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-SkipToMultiplayerMenu\1.0.0\icon.png
 - manifestVersion: 1
   name: FutureSavior-CrankThatJester
   authorName: FutureSavior
@@ -472,9 +470,8 @@
     major: 1
     minor: 0
     patch: 4
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\joe1359-LethalExtras\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\joe1359-LethalExtras\1.0.4\icon.png
 - manifestVersion: 1
   name: malco-Lategame_Upgrades
   authorName: malco
@@ -495,7 +492,7 @@
   versionNumber:
     major: 2
     minor: 7
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
@@ -903,9 +900,8 @@
     major: 1
     minor: 0
     patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\TeamClark-BigBossSuit\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TeamClark-BigBossSuit\1.0.1\icon.png
 - manifestVersion: 1
   name: Crab_imitation-Space_Pajamas_Suit
   authorName: Crab_imitation
@@ -1016,9 +1012,8 @@
     major: 1
     minor: 1
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Verity-3rdPerson\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Verity-3rdPerson\1.1.0\icon.png
 - manifestVersion: 1
   name: steven4547466-YoutubeBoombox
   authorName: steven4547466
@@ -1040,9 +1035,8 @@
     major: 1
     minor: 5
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\steven4547466-YoutubeBoombox\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\steven4547466-YoutubeBoombox\1.5.0\icon.png
 - manifestVersion: 1
   name: RugbugRedfern-Skinwalkers
   authorName: RugbugRedfern
@@ -1446,27 +1440,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Nebulaetrix-ELSlowdown\icon.png
 - manifestVersion: 1
-  name: BYRD-RandomHorn
-  authorName: BYRD
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/BYRD/RandomHorn/
-  displayName: RandomHorn
-  description: Airhorn is replaced with 100+ random sound effects.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BYRD-RandomHorn\1.1.0\icon.png
-- manifestVersion: 1
   name: TwinDimensionalProductions-CoilHeadStare
   authorName: TwinDimensionalProductions
   websiteUrl: https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/
@@ -1672,9 +1645,8 @@
     major: 1
     minor: 5
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AllToasters-SpectateEnemies\1.5.0\icon.png
 - manifestVersion: 1
   name: BatTeam-LethalFashion
   authorName: BatTeam
@@ -1694,9 +1666,8 @@
     major: 1
     minor: 0
     patch: 4
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\BatTeam-LethalFashion\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BatTeam-LethalFashion\1.0.4\icon.png
 - manifestVersion: 1
   name: MegaPiggy-BuyableShotgunShells
   authorName: MegaPiggy
@@ -1828,9 +1799,8 @@
     major: 1
     minor: 0
     patch: 2
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\jammeh-NoiseSuppression\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\jammeh-NoiseSuppression\1.0.2\icon.png
 - manifestVersion: 1
   name: Silvercore-Permanent_Ladder
   authorName: Silvercore
@@ -2030,9 +2000,8 @@
     major: 3
     minor: 1
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\AquaEther-BeanSuit\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AquaEther-BeanSuit\3.1.0\icon.png
 - manifestVersion: 1
   name: bandaidroo-BandaidsMegaCosmetics
   authorName: bandaidroo
@@ -2075,7 +2044,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 5
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\IntegrityChaos-Diversity\icon.png
@@ -2143,7 +2112,7 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\ZTK-ZTKCosmetics\icon.png
@@ -2152,8 +2121,9 @@
   authorName: happyfrosty
   websiteUrl: https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/
   displayName: FrostySuits
-  description: "BRIAN GRIFFIN UPDATE! Over a dozen suit skins, with more on the
-    way! Join our server to suggest new skins: https://discord.gg/fortniteog"
+  description: "PETER + BRIAN GRIFFIN UPDATE! Over a dozen suit skins, with more
+    on the way! Join our server to suggest new skins:
+    https://discord.gg/fortniteog"
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -2161,13 +2131,14 @@
   loaders: []
   dependencies:
     - x753-More_Suits-1.3.0
+    - Verity-TooManySuits-1.0.4
     - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\happyfrosty-FrostySuits\icon.png
@@ -2351,10 +2322,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 4
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\undefined-SlidingCompany\icon.png
+    patch: 5
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\undefined-SlidingCompany\1.0.5\icon.png
 - manifestVersion: 1
   name: Piggy-JesterStompShake
   authorName: Piggy
@@ -2396,46 +2366,22 @@
     major: 1
     minor: 1
     patch: 2
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Cryptoc1-LC_DOOM\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Cryptoc1-LC_DOOM\1.1.2\icon.png
 - manifestVersion: 1
-  name: Rattenbonkers-TVLoader
-  authorName: Rattenbonkers
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rattenbonkers/TVLoader/
-  displayName: TVLoader
-  description: Allows players to add custom videos to the Television.
+  name: happyfrosty-FrostySuits2
+  authorName: happyfrosty
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits2/
+  displayName: FrostySuits2
+  description: happy frosty happy suits 2
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
+    - x753-More_Suits-1.3.0
     - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Rattenbonkers-TVLoader\icon.png
-- manifestVersion: 1
-  name: 44ever-video_pack_for_TVLoader
-  authorName: 44ever
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/44ever/video_pack_for_TVLoader/
-  displayName: video_pack_for_TVLoader
-  description: this mod goes hand in hand with 44ever-suit_mashup_pack-X.X.X to
-    make loading videos easier for those in the friend group who arent as
-    techsavy as the others.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - Rattenbonkers-TVLoader-1.1.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
@@ -2444,28 +2390,26 @@
     patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\44ever-video_pack_for_TVLoader\icon.png
+    Basement\BepInEx\plugins\happyfrosty-FrostySuits2\icon.png
 - manifestVersion: 1
-  name: 44ever-suit_mashup_pack
-  authorName: 44ever
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/44ever/suit_mashup_pack/
-  displayName: suit_mashup_pack
-  description: custom suits, suits from some other mods, custom videos for the
-    television, friend group pack type beat.
+  name: happyfrosty-FrostySuits3
+  authorName: happyfrosty
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits3/
+  displayName: FrostySuits3
+  description: happy frosty happy suits 3
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
-    - 44ever-video_pack_for_TVLoader-1.0.4
+    - x753-More_Suits-1.3.0
     - BepInEx-BepInExPack-5.4.2100
-    - Rattenbonkers-TVLoader-1.1.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
-    minor: 1
-    patch: 4
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\44ever-suit_mashup_pack\2.1.4\icon.png
+    major: 1
+    minor: 0
+    patch: 9
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\happyfrosty-FrostySuits3\1.0.9\icon.png
