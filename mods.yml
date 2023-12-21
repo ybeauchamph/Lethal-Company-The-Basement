@@ -480,7 +480,7 @@
   authorName: malco
   websiteUrl: https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/
   displayName: Lategame_Upgrades
-  description: "V2.6.5 : Config syncing alpha"
+  description: "V2.7.0 : Lightning Rod, Fast Encryption, Better Scanner Overhaul"
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -494,11 +494,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 6
-    patch: 5
+    minor: 7
+    patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\malco-Lategame_Upgrades\2.7.0\icon.png
 - manifestVersion: 1
   name: MetalPipeSFX-HornMoan
   authorName: MetalPipeSFX
@@ -1649,7 +1648,7 @@
   versionNumber:
     major: 3
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Nips-Brutal_Company_Plus\icon.png
