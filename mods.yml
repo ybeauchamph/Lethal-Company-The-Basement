@@ -33,8 +33,8 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
-    minor: 2
+    major: 3
+    minor: 0
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -172,8 +172,8 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 1
-    patch: 2
+    minor: 2
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Clementinise-CustomSounds\icon.png
@@ -1080,7 +1080,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
+    minor: 3
     patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -1207,16 +1207,16 @@
   installMode: managed
   loaders: []
   dependencies:
-    - HolographicWings-LethalExpansion-1.2.14
+    - HolographicWings-LethalExpansion-1.2.16
     - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 5
-    patch: 5
+    patch: 6
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.5\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.5.6\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -1829,7 +1829,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\IntegrityChaos-Diversity\icon.png
@@ -1932,8 +1932,8 @@
   authorName: CTMods
   websiteUrl: https://thunderstore.io/c/lethal-company/p/CTMods/ToemmsensCursedSoundMod/
   displayName: ToemmsensCursedSoundMod
-  description: A mod that adds some cursed sound effects to the game. For example
-    scream Allahu Akbar before exploding to a mine.
+  description: Cursed Sounds everywhere. For example scream Allahu Akbar before
+    exploding to a mine, or a cool new record song.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1946,7 +1946,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\CTMods-ToemmsensCursedSoundMod\icon.png
@@ -2084,8 +2084,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 9
+    minor: 5
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
@@ -2128,10 +2128,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Piggy-JesterStompShake\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Piggy-JesterStompShake\1.0.8\icon.png
 - manifestVersion: 1
   name: happyfrosty-FrostySuits2
   authorName: happyfrosty
