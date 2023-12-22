@@ -2130,7 +2130,8 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Piggy-JesterStompShake\1.0.8\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Piggy-JesterStompShake\icon.png
 - manifestVersion: 1
   name: happyfrosty-FrostySuits2
   authorName: happyfrosty
