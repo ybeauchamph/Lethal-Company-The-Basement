@@ -473,7 +473,8 @@
     minor: 8
     patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\malco-Lategame_Upgrades\2.8.1\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
 - manifestVersion: 1
   name: MetalPipeSFX-HornMoan
   authorName: MetalPipeSFX
@@ -1909,8 +1910,8 @@
   authorName: happyfrosty
   websiteUrl: https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/
   displayName: FrostySuits
-  description: "PETER + BRIAN GRIFFIN UPDATE! Over a dozen suit skins, with more
-    on the way! Join our server to suggest new skins:
+  description: "JOSH HUTCHERSON + PETER + BRIAN GRIFFIN UPDATE! Over a dozen suit
+    skins, with more on the way! Join our server to suggest new skins:
     https://discord.gg/fortniteog"
   gameVersion: "0"
   networkMode: both
@@ -1918,18 +1919,17 @@
   installMode: managed
   loaders: []
   dependencies:
+    - BepInEx-BepInExPack-5.4.2100
     - x753-More_Suits-1.3.0
     - Verity-TooManySuits-1.0.4
-    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 5
+    patch: 6
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\happyfrosty-FrostySuits\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\happyfrosty-FrostySuits\1.1.6\icon.png
 - manifestVersion: 1
   name: CTMods-ToemmsensCursedSoundMod
   authorName: CTMods
