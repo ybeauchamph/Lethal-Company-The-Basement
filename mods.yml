@@ -34,8 +34,8 @@
   optionalDependencies: []
   versionNumber:
     major: 3
-    minor: 0
-    patch: 1
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\2018-LC_API\icon.png
@@ -283,7 +283,7 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 7
+    minor: 8
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -293,7 +293,7 @@
   authorName: Evaisa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
   displayName: LethalThings
-  description: Adds 7 scrap, 5 store items, 1 enemy, 3 decor, 1 map hazard, and 1
+  description: Adds 9 scrap, 6 store items, 1 enemy, 4 decor, 1 map hazard, and 1
     game mechanic.
   gameVersion: "0"
   networkMode: both
@@ -302,17 +302,16 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-HookGenPatcher-0.0.4
-    - Evaisa-LethalLib-0.1.3
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.7.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 7
-    patch: 1
+    minor: 8
+    patch: 8
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Evaisa-LethalThings\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalThings\0.8.8\icon.png
 - manifestVersion: 1
   name: FlipMods-FasterItemDropship
   authorName: FlipMods
@@ -471,7 +470,7 @@
   versionNumber:
     major: 2
     minor: 8
-    patch: 1
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
@@ -745,8 +744,8 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 2
-    patch: 1
+    minor: 3
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\x753-Mimics\icon.png
@@ -915,20 +914,20 @@
   authorName: Team_Waluigi
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Team_Waluigi/WaluigiSuit/
   displayName: WaluigiSuit
-  description: Waluigi Time
+  description: WAHHHHHHH
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
-    - x753-More_Suits-1.3.0
+    - x753-More_Suits-1.4.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Team_Waluigi-WaluigiSuit\icon.png
@@ -1085,7 +1084,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\BLKNeko-HookGun\icon.png
@@ -1102,12 +1101,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - NiceHairs-NuclearLib-1.0.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\NiceHairs-Symbiosis\icon.png
@@ -1195,7 +1195,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 1
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
@@ -1212,15 +1212,15 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.0
+    - HolographicWings-LethalExpansion-1.3.3
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 6
-    patch: 0
+    patch: 1
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.6.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.6.1\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -1682,7 +1682,8 @@
   authorName: Norman
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/
   displayName: GlowStickSuits
-  description: NINE colors and they glow in the dark!
+  description: ELEVEN colors and they glow in the dark! Suits are now brighter! If
+    you want the less bright suits download version 1.0.3
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1696,7 +1697,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Norman-GlowStickSuits\icon.png
@@ -1832,8 +1833,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 8
+    minor: 1
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\IntegrityChaos-Diversity\icon.png
@@ -1900,8 +1901,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 1
+    minor: 5
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\ZTK-ZTKCosmetics\icon.png
@@ -1929,7 +1930,8 @@
     minor: 1
     patch: 6
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\happyfrosty-FrostySuits\1.1.6\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\happyfrosty-FrostySuits\icon.png
 - manifestVersion: 1
   name: CTMods-ToemmsensCursedSoundMod
   authorName: CTMods
@@ -2088,7 +2090,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 3
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
@@ -2155,7 +2157,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 6
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\happyfrosty-FrostySuits2\icon.png
@@ -2184,3 +2186,116 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Slimeade-Discombobulate_Flash_Grenade\icon.png
+- manifestVersion: 1
+  name: NotAtomicBomb-TerminalApi
+  authorName: NotAtomicBomb
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/
+  displayName: TerminalApi
+  description: A Terminal Api
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\NotAtomicBomb-TerminalApi\icon.png
+- manifestVersion: 1
+  name: NomnomAB-RollingGiant
+  authorName: NomnomAB
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/
+  displayName: RollingGiant
+  description: Adds the Rolling Giant as a Coilhead variant. Sounds are included.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - NotAtomicBomb-TerminalApi-1.4.0
+    - 2018-LC_API-3.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\NomnomAB-RollingGiant\icon.png
+- manifestVersion: 1
+  name: kuba6000-LC_Masked_Fix
+  authorName: kuba6000
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/
+  displayName: LC_Masked_Fix
+  description: Fixes mimic / masked bug where you can't look around after the kill
+    is interrupted.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\kuba6000-LC_Masked_Fix\icon.png
+- manifestVersion: 1
+  name: Kittenji-Dont_Touch_Me
+  authorName: Kittenji
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/
+  displayName: Dont_Touch_Me
+  description: Adds a new entity to the game, from Lobotomy Corporation. Can you
+    and your friends survive the temptation?
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Kittenji-Dont_Touch_Me\icon.png
+- manifestVersion: 1
+  name: NiceHairs-NuclearLib
+  authorName: NiceHairs
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/NiceHairs/NuclearLib/
+  displayName: NuclearLib
+  description: My Library for easy mod development.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\NiceHairs-NuclearLib\icon.png
