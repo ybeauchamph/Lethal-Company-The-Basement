@@ -2516,4 +2516,27 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\scoopy-LethalExtension\0.1.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\scoopy-LethalExtension\icon.png
+- manifestVersion: 1
+  name: FireNoobsta-Ducks_Moons
+  authorName: FireNoobsta
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/FireNoobsta/Ducks_Moons/
+  displayName: Ducks_Moons
+  description: Adds a new moon.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FireNoobsta-Ducks_Moons\1.1.1\icon.png
