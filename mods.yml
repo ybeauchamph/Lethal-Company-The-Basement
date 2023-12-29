@@ -2033,29 +2033,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\TheDeadSnake-Touchscreen\icon.png
 - manifestVersion: 1
-  name: Hamunii-JetpackFallFix
-  authorName: Hamunii
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackFallFix/
-  displayName: JetpackFallFix
-  description: Fixes buggy jetpack fall damage logic, utilizing slight but
-    necessary creative freedom.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Hamunii-JetpackFallFix\icon.png
-- manifestVersion: 1
   name: Hamunii-JetpackWarning
   authorName: Hamunii
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackWarning/
@@ -2490,4 +2467,53 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KayNetsua-E_Gypt_Moon\1.0.8\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\KayNetsua-E_Gypt_Moon\icon.png
+- manifestVersion: 1
+  name: Invertigo-JetpackHandling
+  authorName: Invertigo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Invertigo/JetpackHandling/
+  displayName: JetpackHandling
+  description: Improves handling of jetpack. Alters gravity and damage conditions
+    when equipped to keep you safer.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Invertigo-JetpackHandling\icon.png
+- manifestVersion: 1
+  name: scoopy-LethalExtension
+  authorName: scoopy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/scoopy/LethalExtension/
+  displayName: LethalExtension
+  description: A mod which intends to expand upon the vanilla experience of Lethal
+    Company. Currently adds one new dungeon-themed interior, and for some reason
+    a guitar which plays the funny weezer riff.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.9.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\scoopy-LethalExtension\0.1.0\icon.png
