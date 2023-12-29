@@ -283,7 +283,7 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 8
+    minor: 9
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -471,7 +471,7 @@
   versionNumber:
     major: 2
     minor: 8
-    patch: 3
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
@@ -807,12 +807,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - 2018-LC_API-3.0.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 2
+    minor: 5
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
@@ -1102,13 +1103,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - NiceHairs-NuclearLib-1.0.1
+    - NiceHairs-NuclearLib-1.0.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\NiceHairs-Symbiosis\icon.png
@@ -1174,7 +1175,7 @@
   versionNumber:
     major: 0
     minor: 4
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
@@ -1205,7 +1206,7 @@
   authorName: sfDesat
   websiteUrl: https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/
   displayName: Orion
-  description: A new moon.
+  description: A new moon. [1.0 Release]
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1213,15 +1214,16 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.3
+    - HolographicWings-LethalExpansion-1.3.6
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 0
-    minor: 6
-    patch: 1
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\0.6.1\icon.png
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\sfDesat-Orion\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -1349,13 +1351,13 @@
   installMode: managed
   loaders: []
   dependencies:
-    - HolographicWings-LethalExpansion-1.1.9
     - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.1.9
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 2
+    minor: 3
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -1472,8 +1474,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 2
+    minor: 5
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\ShadowRocks2-ShadowsMemeMusic\icon.png
@@ -1559,15 +1561,16 @@
   installMode: managed
   loaders: []
   dependencies:
-    - Evaisa-LethalLib-0.8.0
+    - Evaisa-LethalLib-0.9.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 1
-    patch: 1
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Backrooms-Backrooms\0.1.1\icon.png
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Backrooms-Backrooms\icon.png
 - manifestVersion: 1
   name: Sculas-BrutalCompanyAdditions
   authorName: Sculas
@@ -1760,13 +1763,15 @@
   installMode: managed
   loaders: []
   dependencies:
-    - Evaisa-LethalLib-0.7.0
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.9.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
-    patch: 0
+    minor: 3
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Badham_Mods-SCPFoundationDungeon\icon.png
@@ -1835,7 +1840,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 2
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\IntegrityChaos-Diversity\icon.png
@@ -1901,8 +1906,8 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 5
+    major: 2
+    minor: 0
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -1914,7 +1919,7 @@
   displayName: FrostySuits
   description: "JOSH HUTCHERSON + PETER + BRIAN GRIFFIN UPDATE! Over a dozen suit
     skins, with more on the way! Join our server to suggest new skins:
-    https://discord.gg/fortniteog"
+    https://discord.gg/gordion"
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1929,7 +1934,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 6
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\happyfrosty-FrostySuits\icon.png
@@ -1961,9 +1966,10 @@
   authorName: kyxino
   websiteUrl: https://thunderstore.io/c/lethal-company/p/kyxino/LethalUtilities/
   displayName: LethalUtilities
-  description: Unleash the CHAOS with LethalUtilities or keep things very vanilla,
-    the choice is yours. This is a VERY handy mod for modpacks as it can change
-    many variables in the game and can replace/complement many small mods.
+  description: (Fixed ScrapValue/TimeSpeed mults, all known bugs fixed.) Customize
+    all kinds of things like your gear, sprint, teleporters, map/weather
+    multipliers for spawn chances and scrap value/amount, and more! Simplify
+    your mod count with LethalUtilities.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1976,7 +1982,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 8
+    patch: 11
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\kyxino-LethalUtilities\icon.png
@@ -2022,7 +2028,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 6
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\TheDeadSnake-Touchscreen\icon.png
@@ -2091,7 +2097,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 6
+    patch: 8
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
@@ -2158,7 +2164,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\happyfrosty-FrostySuits2\icon.png
@@ -2223,12 +2229,11 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - NotAtomicBomb-TerminalApi-1.4.0
-    - 2018-LC_API-3.0.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
+    minor: 2
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -2296,7 +2301,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\NiceHairs-NuclearLib\icon.png
@@ -2306,8 +2311,9 @@
   websiteUrl: https://thunderstore.io/c/lethal-company/p/saint_kendrick/Lethal_Doors/
   displayName: Lethal_Doors
   description: The ships hangar doors become deadly If you're too close while
-    closing. You'll end up severely injured or terminated. The hanger doors in
-    the Ship should be just as Lethal as everything else...
+    closing. You & enemies end up terminated or severely injured if caught in
+    the door. The hanger doors in the Ship should be just as Lethal as
+    everything else...
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -2320,7 +2326,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\saint_kendrick-Lethal_Doors\icon.png
@@ -2343,7 +2349,145 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 0
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Jordo-NeedyCats\icon.png
+- manifestVersion: 1
+  name: sfDesat-Aquatis
+  authorName: sfDesat
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/
+  displayName: Aquatis
+  description: A new moon.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 3
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\sfDesat-Aquatis\icon.png
+- manifestVersion: 1
+  name: Arffeh-WhyAreYouRunning
+  authorName: Arffeh
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Arffeh/WhyAreYouRunning/
+  displayName: WhyAreYouRunning
+  description: Makes the bees yell at you
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - no00ob-LCSoundTool-1.4.0
+    - Clementinise-CustomSounds-2.2.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 9
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Arffeh-WhyAreYouRunning\icon.png
+- manifestVersion: 1
+  name: Jamil-Corporate_Restructure
+  authorName: Jamil
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/
+  displayName: Corporate_Restructure
+  description: A QoL Overhaul for Corporate Executives
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Jamil-Corporate_Restructure\icon.png
+- manifestVersion: 1
+  name: darksnakex-NoCorpseHigherQuota
+  authorName: darksnakex
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/darksnakex/NoCorpseHigherQuota/
+  displayName: NoCorpseHigherQuota
+  description: Increases the quota for each unrecovered body dynamically
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\darksnakex-NoCorpseHigherQuota\icon.png
+- manifestVersion: 1
+  name: Ceelery-Kast
+  authorName: Ceelery
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ceelery/Kast/
+  displayName: Kast
+  description: Adds a new, late-game moon. Proceed with caution.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Ceelery-Kast\icon.png
+- manifestVersion: 1
+  name: KayNetsua-E_Gypt_Moon
+  authorName: KayNetsua
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/KayNetsua/E_Gypt_Moon/
+  displayName: E_Gypt_Moon
+  description: This mod adds a new moon - 10 EGypt to the terminal, and for play.
+    This moon is meant to act as a connected difficulty between the Intermediate
+    moons of March and Offense and the Harder moons of Rend, Dine and Titan.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KayNetsua-E_Gypt_Moon\1.0.8\icon.png
