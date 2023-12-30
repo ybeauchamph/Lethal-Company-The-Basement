@@ -739,16 +739,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - 2018-LC_API-3.0.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\EliteMasterEric-Coroner\1.5.1\icon.png
 - manifestVersion: 1
   name: Crab_imitation-Space_Pajamas_Suit
   authorName: Crab_imitation
@@ -1057,7 +1055,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 8
+    patch: 9
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
@@ -1074,13 +1072,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.6
+    - HolographicWings-LethalExpansion-1.3.9
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 3
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\sfDesat-Orion\icon.png
@@ -1403,7 +1401,7 @@
   versionNumber:
     major: 0
     minor: 1
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Backrooms-Backrooms\icon.png
@@ -1863,7 +1861,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\TheDeadSnake-Touchscreen\icon.png
@@ -2160,7 +2158,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Jamil-Corporate_Restructure\icon.png
@@ -2278,7 +2276,7 @@
   versionNumber:
     major: 0
     minor: 2
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\scoopy-LethalExtension\icon.png
