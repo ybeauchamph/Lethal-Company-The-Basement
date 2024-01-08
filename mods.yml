@@ -813,10 +813,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RugbugRedfern-Skinwalkers\2.0.2\icon.png
 - manifestVersion: 1
   name: EliteMasterEric-SlimeTamingFix
   authorName: EliteMasterEric
@@ -1015,9 +1014,9 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 14
+    patch: 16
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HolographicWings-LethalExpansion\1.3.14\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HolographicWings-LethalExpansion\1.3.16\icon.png
 - manifestVersion: 1
   name: sfDesat-Orion
   authorName: sfDesat
@@ -1037,9 +1036,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 3
+    patch: 4
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\1.1.3\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\1.1.4\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -1058,8 +1057,8 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 2
-    patch: 1
+    minor: 3
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
@@ -1776,7 +1775,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 1
+    patch: 6
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
@@ -2329,7 +2328,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\AbyssalCompanyTeam-AbyssalAudio\icon.png
