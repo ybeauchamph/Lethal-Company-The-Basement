@@ -1,0 +1,16 @@
+{
+  "cosmetics": {
+    "activated_cosmetics": [
+      "ZTK.MoaiHead",
+      "ZTK.Matt.Drums"
+    ]
+  },
+  "hotbar": {
+    "hotbar_scale": 1.0,
+    "hotbar_alpha": 0.13,
+    "invert_scroll": true
+  },
+  "file": {
+    "save_in_profile": false
+  }
+}

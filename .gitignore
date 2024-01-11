@@ -1,6 +1,7 @@
 BepInEx/core/
 BepInEx/cache/
 BepInEx/plugins/
+BepInEx/patchers
 BepInEx/Custom Songs/
 _state/
 *.dll
