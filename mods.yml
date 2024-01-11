@@ -267,8 +267,9 @@
     major: 1
     minor: 2
     patch: 1
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-FasterItemDropship\1.2.1\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\FlipMods-FasterItemDropship\icon.png
 - manifestVersion: 1
   name: FlipMods-LetMeLookDown
   authorName: FlipMods
@@ -476,29 +477,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\PanHouse-LethalClunk\icon.png
 - manifestVersion: 1
-  name: Renegades-FlashlightToggle
-  authorName: Renegades
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/
-  displayName: FlashlightToggle
-  description: Press F to toggle a flashlight in your inventory. CLIENT SIDE.
-    REBINDABLE IN-GAME
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Rune580-LethalCompany_InputUtils-0.4.3
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 5
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Renegades-FlashlightToggle\1.5.0\icon.png
-- manifestVersion: 1
   name: Renegades-WalkieUse
   authorName: Renegades
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/
@@ -661,48 +639,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\x753-Mimics\icon.png
-- manifestVersion: 1
-  name: vasanex-ItemQuickSwitch
-  authorName: vasanex
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/vasanex/ItemQuickSwitch/
-  displayName: ItemQuickSwitch
-  description: Use keybinds to access your items directly!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\vasanex-ItemQuickSwitch\1.1.0\icon.png
-- manifestVersion: 1
-  name: tinyhoot-ShipLobby
-  authorName: tinyhoot
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/
-  displayName: ShipLobby
-  description: Let people join late whenever you're in orbit in between missions.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 2
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\tinyhoot-ShipLobby\1.0.2\icon.png
 - manifestVersion: 1
   name: EliteMasterEric-Coroner
   authorName: EliteMasterEric
@@ -903,27 +839,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Hexnet111-SuitSaver\icon.png
-- manifestVersion: 1
-  name: Stoneman-LethalProgression
-  authorName: Stoneman
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/
-  displayName: LethalProgression
-  description: Leveling and skillpoints!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 3
-    patch: 2
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Stoneman-LethalProgression\1.3.2\icon.png
 - manifestVersion: 1
   name: BLKNeko-HookGun
   authorName: BLKNeko
@@ -1632,7 +1547,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 8
+    patch: 9
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\happyfrosty-FrostySuits\icon.png
@@ -1704,8 +1619,9 @@
     major: 1
     minor: 0
     patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Hildebert-Hildebert_Angry_Indian_Scammer_Bug\1.0.0\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Hildebert-Hildebert_Angry_Indian_Scammer_Bug\icon.png
 - manifestVersion: 1
   name: TheDeadSnake-Touchscreen
   authorName: TheDeadSnake
@@ -1794,9 +1710,8 @@
     major: 1
     minor: 0
     patch: 7
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\undefined-SlidingCompany\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\undefined-SlidingCompany\1.0.7\icon.png
 - manifestVersion: 1
   name: Piggy-JesterStompShake
   authorName: Piggy
@@ -2119,28 +2034,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Invertigo-JetpackHandling\icon.png
 - manifestVersion: 1
-  name: FireNoobsta-Ducks_Moons
-  authorName: FireNoobsta
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/FireNoobsta/Ducks_Moons/
-  displayName: Ducks_Moons
-  description: Adds a new moon.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.18
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 3
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FireNoobsta-Ducks_Moons\1.1.3\icon.png
-- manifestVersion: 1
   name: BrotherPig-MountainDewMan_Suits
   authorName: BrotherPig
   websiteUrl: https://thunderstore.io/c/lethal-company/p/BrotherPig/MountainDewMan_Suits/
@@ -2227,38 +2120,16 @@
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-HookGenPatcher-0.0.5
     - Evaisa-LethalLib-0.11.0
-    - IAmBatby-LethalLevelLoader-1.0.4
+    - IAmBatby-LethalLevelLoader-1.0.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 6
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\scoopy-Scoopys_Variety_Mod\icon.png
-- manifestVersion: 1
-  name: F4ilS4fe-MaskTheDead
-  authorName: F4ilS4fe
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/F4ilS4fe/MaskTheDead/
-  displayName: MaskTheDead
-  description: Bodies in close proximity of a haunted mask have a chance of being
-    possessed. Fully configurable.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 5
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\F4ilS4fe-MaskTheDead\1.0.5\icon.png
 - manifestVersion: 1
   name: coffeecat-WindowsXPTerminal
   authorName: coffeecat
@@ -2329,27 +2200,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\AbyssalCompanyTeam-AbyssalAudio\icon.png
-- manifestVersion: 1
-  name: Blorb-WeatherMultipliers
-  authorName: Blorb
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/
-  displayName: WeatherMultipliers
-  description: Moons with active weather will contain scrap with higher value
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Blorb-WeatherMultipliers\1.1.0\icon.png
 - manifestVersion: 1
   name: MoonJuice-RubberChicken
   authorName: MoonJuice
@@ -2537,30 +2387,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Raybiii-SnoopDoggRobot\icon.png
 - manifestVersion: 1
-  name: Gamerz-Mr_Krabs
-  authorName: Gamerz
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Gamerz/Mr_Krabs/
-  displayName: Mr_Krabs
-  description: Mr.Krabs is making MONEY
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - no00ob-LCSoundTool-1.3.2
-    - Clementinise-CustomSounds-2.1.2
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Gamerz-Mr_Krabs\icon.png
-- manifestVersion: 1
   name: JunLethalCompany-GamblingMachineAtTheCompany
   authorName: JunLethalCompany
   websiteUrl: https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/
@@ -2743,4 +2569,28 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\loaforc-FacilityMeltdown\1.1.3\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\loaforc-FacilityMeltdown\icon.png
+- manifestVersion: 1
+  name: Toskan4134-LethalRegeneration
+  authorName: Toskan4134
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Toskan4134/LethalRegeneration/
+  displayName: LethalRegeneration
+  description: Natural health regeneration mod with customizable parameters that
+    syncs with host
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Toskan4134-LethalRegeneration\icon.png
