@@ -1990,9 +1990,8 @@
   authorName: KayNetsua
   websiteUrl: https://thunderstore.io/c/lethal-company/p/KayNetsua/E_Gypt_Moon/
   displayName: E_Gypt_Moon
-  description: This mod adds a new moon - 10 EGypt to the terminal, and for play.
-    This moon is meant to act as a connected difficulty between the Intermediate
-    moons of March and Offense and the Harder moons of Rend, Dine and Titan.
+  description: Adds the intermediate moon 10-EGypt to the game. Adds 1 scrap. No
+    longer requires LethalExpansion!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -2000,15 +1999,17 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.3
+    - Evaisa-LethalLib-0.11.1
+    - IAmBatby-LethalLevelLoader-1.0.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
+    major: 2
     minor: 0
-    patch: 8
+    patch: 0
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KayNetsua-E_Gypt_Moon\1.0.8\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\KayNetsua-E_Gypt_Moon\icon.png
 - manifestVersion: 1
   name: Invertigo-JetpackHandling
   authorName: Invertigo
@@ -2594,3 +2595,250 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Toskan4134-LethalRegeneration\icon.png
+- manifestVersion: 1
+  name: nihl-NeutronStarSample
+  authorName: nihl
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/nihl/NeutronStarSample/
+  displayName: NeutronStarSample
+  description: Adds a new Neutron Star Sample scrap into the game. Immensely
+    valuable, but can you bring it back?
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.9.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\nihl-NeutronStarSample\icon.png
+- manifestVersion: 1
+  name: AgentRev-ShootableMouthDogs
+  authorName: AgentRev
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AgentRev/ShootableMouthDogs/
+  displayName: ShootableMouthDogs
+  description: Makes eyeless mouthdogs killable with shotguns. Client-side, works
+    in public lobbies. Vanilla damage unchanged.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\AgentRev-ShootableMouthDogs\icon.png
+- manifestVersion: 1
+  name: Bobbie-FixRPCLag
+  authorName: Bobbie
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Bobbie/FixRPCLag/
+  displayName: FixRPCLag
+  description: Fixes RPC lag. This should fix the several second slowdown that
+    occurs when some mods throw exceptions in the console.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Bobbie-FixRPCLag\icon.png
+- manifestVersion: 1
+  name: RedCrowbar-BuffedPresents
+  authorName: RedCrowbar
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/RedCrowbar/BuffedPresents/
+  displayName: BuffedPresents
+  description: Presents can give buyables or better value scrap
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\RedCrowbar-BuffedPresents\icon.png
+- manifestVersion: 1
+  name: egeadam-MoreScreams
+  authorName: egeadam
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/
+  displayName: MoreScreams
+  description: This modification allows you to hear players' voices for 2 seconds
+    (adjustable) after they die.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\egeadam-MoreScreams\icon.png
+- manifestVersion: 1
+  name: MrHydralisk-EnhancedRadarBooster
+  authorName: MrHydralisk
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/
+  displayName: EnhancedRadarBooster
+  description: Mod for Lethal Company, that enhance Radar Booster
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 4
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
+- manifestVersion: 1
+  name: freesnow-CollectYourDead
+  authorName: freesnow
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/freesnow/CollectYourDead/
+  displayName: CollectYourDead
+  description: Bodies are automatically collected when teleported back to the
+    ship.  Tested to support v45, v47, v48, and v49!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\freesnow-CollectYourDead\icon.png
+- manifestVersion: 1
+  name: fumiko-BetterMonitor
+  authorName: fumiko
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/fumiko/BetterMonitor/
+  displayName: BetterMonitor
+  description: Small tweaks to the monitor.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\fumiko-BetterMonitor\icon.png
+- manifestVersion: 1
+  name: PC-FireExitFlip
+  authorName: PC
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/PC/FireExitFlip/
+  displayName: FireExitFlip
+  description: When entering through fire exit this makes you turn away from the door
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\PC-FireExitFlip\icon.png
+- manifestVersion: 1
+  name: PostMortem-BetterLightning
+  authorName: PostMortem
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/PostMortem/BetterLightning/
+  displayName: BetterLightning
+  description: Adds elec sound and particle effects to the random lightning spots
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\PostMortem-BetterLightning\icon.png
+- manifestVersion: 1
+  name: Spyci-CozyImprovements
+  authorName: Spyci
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Spyci/CozyImprovements/
+  displayName: CozyImprovements
+  description: Enhance the experience inside the ship to create a more immersive,
+    cozy, and accessible environment. v47 compatible.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Spyci-CozyImprovements\icon.png
