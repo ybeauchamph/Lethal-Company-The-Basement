@@ -171,12 +171,11 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 1
+    major: 2
+    minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\EliteMasterEric-WackyCosmetics\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\EliteMasterEric-WackyCosmetics\2.0.0\icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
   authorName: Evaisa
@@ -204,7 +203,7 @@
   authorName: Evaisa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
   displayName: LethalLib
-  description: My modding tools for Lethal Company
+  description: Personal modding tools for Lethal Company
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -217,7 +216,7 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 11
+    minor: 12
     patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -227,7 +226,7 @@
   authorName: Evaisa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
   displayName: LethalThings
-  description: Adds 9 scrap, 6 store items, 1 enemy, 4 decor, 1 map hazard, and 1
+  description: Adds 11 scrap, 6 store items, 1 enemy, 4 decor, 1 map hazard, and 1
     game mechanic.
   gameVersion: "0"
   networkMode: both
@@ -237,13 +236,13 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-HookGenPatcher-0.0.5
-    - Evaisa-LethalLib-0.7.0
+    - Evaisa-LethalLib-0.11.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 8
-    patch: 8
+    minor: 9
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalThings\icon.png
@@ -542,7 +541,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Sligili-More_Emotes\icon.png
@@ -746,7 +745,7 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 6
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
@@ -981,6 +980,7 @@
   displayName: ObjectVolumeController
   description: Allows adjusting the volume on the media objects, such as
     television, boombox, and record player, by pressing the [-] and [+] keys.
+    Can configure the default volumes for each device!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -993,7 +993,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-ObjectVolumeController\icon.png
@@ -1195,14 +1195,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.3.0
     - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.3.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\MegaPiggy-BuyableShotgunShells\icon.png
@@ -1687,7 +1687,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 8
+    patch: 10
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
@@ -1990,8 +1990,8 @@
   authorName: KayNetsua
   websiteUrl: https://thunderstore.io/c/lethal-company/p/KayNetsua/E_Gypt_Moon/
   displayName: E_Gypt_Moon
-  description: Adds the intermediate moon 10-EGypt to the game. Adds 1 scrap. No
-    longer requires LethalExpansion!
+  description: Adds the intermediate-level moon 10-EGypt to the game. No longer
+    requires LethalExpansion!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1999,17 +1999,16 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.11.1
-    - IAmBatby-LethalLevelLoader-1.0.5
+    - Evaisa-LethalLib-0.11.2
+    - IAmBatby-LethalLevelLoader-1.0.6
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 0
-    patch: 0
+    patch: 3
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\KayNetsua-E_Gypt_Moon\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KayNetsua-E_Gypt_Moon\2.0.3\icon.png
 - manifestVersion: 1
   name: Invertigo-JetpackHandling
   authorName: Invertigo
@@ -2407,8 +2406,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
-    patch: 3
+    minor: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\JunLethalCompany-GamblingMachineAtTheCompany\icon.png
@@ -2426,13 +2425,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.11.0
+    - Evaisa-LethalLib-0.11.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 5
+    patch: 6
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
@@ -2479,7 +2478,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 105
+    patch: 108
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\PotatoePet-AdvancedCompany\icon.png
@@ -2501,7 +2500,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\BudgetAirpods-InsanityRemastered\icon.png
@@ -2567,8 +2566,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 3
+    minor: 2
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\loaforc-FacilityMeltdown\icon.png
@@ -2842,3 +2841,25 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Spyci-CozyImprovements\icon.png
+- manifestVersion: 1
+  name: ViViKo-ItemClippingFix
+  authorName: ViViKo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ViViKo/ItemClippingFix/
+  displayName: ItemClippingFix
+  description: Fixes ground/storage clipping & rotation on almost all items
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\ViViKo-ItemClippingFix\icon.png
