@@ -175,7 +175,8 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\EliteMasterEric-WackyCosmetics\2.0.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\EliteMasterEric-WackyCosmetics\icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
   authorName: Evaisa
@@ -266,9 +267,8 @@
     major: 1
     minor: 2
     patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\FlipMods-FasterItemDropship\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-FasterItemDropship\1.2.1\icon.png
 - manifestVersion: 1
   name: FlipMods-LetMeLookDown
   authorName: FlipMods
