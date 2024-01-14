@@ -131,7 +131,8 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\e3s1-BetterLadders\1.4.0\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\e3s1-BetterLadders\icon.png
 - manifestVersion: 1
   name: notnotnotswipez-MoreCompany
   authorName: notnotnotswipez
@@ -246,28 +247,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalThings\icon.png
-- manifestVersion: 1
-  name: FlipMods-FasterItemDropship
-  authorName: FlipMods
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/
-  displayName: FasterItemDropship
-  description: Makes the Item Dropship arrive and leave faster. All settings are
-    now configurable.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 1
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-FasterItemDropship\1.2.1\icon.png
 - manifestVersion: 1
   name: FlipMods-LetMeLookDown
   authorName: FlipMods
@@ -742,12 +721,11 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
+    major: 3
     minor: 0
-    patch: 7
+    patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RugbugRedfern-Skinwalkers\3.0.1\icon.png
 - manifestVersion: 1
   name: EliteMasterEric-SlimeTamingFix
   authorName: EliteMasterEric
@@ -903,7 +881,7 @@
   versionNumber:
     major: 0
     minor: 5
-    patch: 1
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
@@ -926,8 +904,9 @@
     major: 1
     minor: 3
     patch: 19
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HolographicWings-LethalExpansion\1.3.19\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
 - manifestVersion: 1
   name: sfDesat-Orion
   authorName: sfDesat
@@ -948,8 +927,9 @@
     major: 1
     minor: 2
     patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Orion\1.2.0\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\sfDesat-Orion\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -1593,7 +1573,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 15
+    patch: 16
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\kyxino-LethalUtilities\icon.png
@@ -1892,8 +1872,9 @@
     major: 0
     minor: 4
     patch: 2
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\sfDesat-Aquatis\0.4.2\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\sfDesat-Aquatis\icon.png
 - manifestVersion: 1
   name: Arffeh-WhyAreYouRunning
   authorName: Arffeh
@@ -1982,8 +1963,9 @@
     major: 1
     minor: 0
     patch: 3
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Ceelery-Kast\1.0.3\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Ceelery-Kast\icon.png
 - manifestVersion: 1
   name: KayNetsua-E_Gypt_Moon
   authorName: KayNetsua
@@ -2006,8 +1988,9 @@
     major: 2
     minor: 0
     patch: 4
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KayNetsua-E_Gypt_Moon\2.0.4\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\KayNetsua-E_Gypt_Moon\icon.png
 - manifestVersion: 1
   name: Invertigo-JetpackHandling
   authorName: Invertigo
@@ -2100,8 +2083,9 @@
     major: 3
     minor: 2
     patch: 4
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zingar-SecretLabs\3.2.4\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Zingar-SecretLabs\icon.png
 - manifestVersion: 1
   name: scoopy-Scoopys_Variety_Mod
   authorName: scoopy
@@ -2862,3 +2846,143 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\ViViKo-ItemClippingFix\icon.png
+- manifestVersion: 1
+  name: Luigi-Nintendo_Hats
+  authorName: Luigi
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Luigi/Nintendo_Hats/
+  displayName: Nintendo_Hats
+  description: Mama mia! You got some awesome hats!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - bbepis-BepInExPack-5.4.2113
+    - notnotnotswipez-MoreCompany-1.7.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Luigi-Nintendo_Hats\icon.png
+- manifestVersion: 1
+  name: jockie-LethalExpansionCore
+  authorName: jockie
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/
+  displayName: LethalExpansionCore
+  description: De-bloated LethalExpansion fork with only the LethalSDK module support
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 14
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\jockie-LethalExpansionCore\icon.png
+- manifestVersion: 1
+  name: Zingar-Atlas_Abyss
+  authorName: Zingar
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zingar/Atlas_Abyss/
+  displayName: Atlas_Abyss
+  description: "[1.0 Release] A new moon of dark secrets, jagged terrain and
+    carved stone. Below the surface, the Masked Men have broken free. The abyss
+    below extends *redacted* metres and none have survived the fall."
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Zingar-Atlas_Abyss\icon.png
+- manifestVersion: 1
+  name: AmazingPyroAndGoofs-Aridion
+  authorName: AmazingPyroAndGoofs
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AmazingPyroAndGoofs/Aridion/
+  displayName: Aridion
+  description: Adds a new hard moon
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 6
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\AmazingPyroAndGoofs-Aridion\icon.png
+- manifestVersion: 1
+  name: LethalMoonTeam-Ether
+  authorName: LethalMoonTeam
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/
+  displayName: Ether
+  description: A new moon. Home to a large abandoned city. [Full Release] [Join
+    our discord for access to unreleased moons!] <3]
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.14
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\LethalMoonTeam-Ether\icon.png
+- manifestVersion: 1
+  name: TryToDiveMe-Bikini_Bottom
+  authorName: TryToDiveMe
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TryToDiveMe/Bikini_Bottom/
+  displayName: Bikini_Bottom
+  description: This mod includes 1 Bikini Bottom Moon and 19 Spongebob-Themed Items.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.18
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\TryToDiveMe-Bikini_Bottom\icon.png
