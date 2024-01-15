@@ -2860,14 +2860,14 @@
   installMode: managed
   loaders: []
   dependencies:
-    - bbepis-BepInExPack-5.4.2113
+    - BepInEx-BepInExPack-5.4.2100
     - notnotnotswipez-MoreCompany-1.7.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 1
+    minor: 2
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Luigi-Nintendo_Hats\icon.png
