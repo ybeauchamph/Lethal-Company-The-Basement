@@ -36,7 +36,7 @@
   versionNumber:
     major: 3
     minor: 4
-    patch: 3
+    patch: 4
   enabled: false
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\2018-LC_API\icon.png
@@ -1666,7 +1666,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 14
+    patch: 15
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
@@ -2179,7 +2179,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\AbyssalCompanyTeam-AbyssalAudio\icon.png
@@ -2462,7 +2462,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 114
+    patch: 115
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\PotatoePet-AdvancedCompany\icon.png
