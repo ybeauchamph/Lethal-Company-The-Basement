@@ -1,0 +1,18 @@
+{
+  "cosmetics": {
+    "activated_cosmetics": []
+  },
+  "hotbar": {
+    "hotbar_scale": 0.9,
+    "hotbar_alpha": 0.13,
+    "hotbar_border_width": 4.0,
+    "hotbar_spacing": 10.0,
+    "invert_scroll": true
+  },
+  "file": {
+    "save_in_profile": false
+  },
+  "graphics": {
+    "vision_enhancer_brightness": 0.65
+  }
+}
