@@ -38,8 +38,7 @@
     minor: 4
     patch: 4
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\2018-LC_API\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\2018-LC_API\3.4.4\icon.png
 - manifestVersion: 1
   name: x753-More_Suits
   authorName: x753
@@ -218,7 +217,7 @@
   versionNumber:
     major: 0
     minor: 13
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalLib\icon.png
@@ -376,13 +375,13 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-HookGenPatcher-0.0.5
-    - Evaisa-LethalLib-0.10.0
+    - Evaisa-LethalLib-0.13.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 3
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
@@ -1379,13 +1378,13 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-HookGenPatcher-0.0.5
-    - Evaisa-LethalLib-0.11.0
-    - IAmBatby-LethalLevelLoader-1.0.4
+    - IAmBatby-LethalLevelLoader-1.0.6
+    - Evaisa-LethalLib-0.13.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 5
+    major: 2
+    minor: 0
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -1857,7 +1856,7 @@
   authorName: sfDesat
   websiteUrl: https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/
   displayName: Aquatis
-  description: A new moon.
+  description: A new moon. [1.0 Release]
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1865,13 +1864,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.14
+    - HolographicWings-LethalExpansion-1.3.19
+    - sfDesat-ExpansionAssets-1.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 0
-    minor: 4
-    patch: 2
+    major: 1
+    minor: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\sfDesat-Aquatis\icon.png
@@ -2179,7 +2179,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 1
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\AbyssalCompanyTeam-AbyssalAudio\icon.png
@@ -2822,7 +2822,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Spyci-CozyImprovements\icon.png
@@ -2923,7 +2923,7 @@
   authorName: LethalMoonTeam
   websiteUrl: https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/
   displayName: Ether
-  description: A new moon. Home to a large abandoned city. [1.5.0 Release] [Join
+  description: A new moon. Home to a large abandoned city. [1.5.3 Release] [Join
     our discord for access to unreleased moons!] <3]
   gameVersion: "0"
   networkMode: both
@@ -2932,13 +2932,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.14
+    - HolographicWings-LethalExpansion-1.3.19
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 5
-    patch: 1
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\LethalMoonTeam-Ether\icon.png
@@ -3011,3 +3011,137 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Magic_Wesley-Infernis\icon.png
+- manifestVersion: 1
+  name: sfDesat-ExpansionAssets
+  authorName: sfDesat
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/sfDesat/ExpansionAssets/
+  displayName: ExpansionAssets
+  description: This mod does not work on it's own
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\sfDesat-ExpansionAssets\icon.png
+- manifestVersion: 1
+  name: AinaVT-LethalConfig
+  authorName: AinaVT
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/
+  displayName: LethalConfig
+  description: Provides an in-game config menu for players to edit their configs,
+    and an API for other mods to use and customize their entries.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 4
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\AinaVT-LethalConfig\icon.png
+- manifestVersion: 1
+  name: Gemumoddo-LethalEmotesAPI
+  authorName: Gemumoddo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/
+  displayName: LethalEmotesAPI
+  description: API for adding emotes to Lethal Company
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.4.4
+    - AinaVT-LethalConfig-1.2.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 5
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Gemumoddo-LethalEmotesAPI\icon.png
+- manifestVersion: 1
+  name: Gemumoddo-BadAssCompany
+  authorName: Gemumoddo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Gemumoddo/BadAssCompany/
+  displayName: BadAssCompany
+  description: One of the emote mods of all time
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Gemumoddo-LethalEmotesAPI-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Gemumoddo-BadAssCompany\icon.png
+- manifestVersion: 1
+  name: kidkool-GlizzyEmotes
+  authorName: kidkool
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/kidkool/GlizzyEmotes/
+  displayName: GlizzyEmotes
+  description: More Emotes, works with BadAssCompany
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Gemumoddo-LethalEmotesAPI-1.1.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\kidkool-GlizzyEmotes\icon.png
+- manifestVersion: 1
+  name: Gemumoddo-Tf2Emotes
+  authorName: Gemumoddo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Gemumoddo/Tf2Emotes/
+  displayName: Tf2Emotes
+  description: Are Those Latin Rhythms? I love Latin Rhythms!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Gemumoddo-LethalEmotesAPI-1.1.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Gemumoddo-Tf2Emotes\1.0.3\icon.png
