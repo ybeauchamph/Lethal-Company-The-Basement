@@ -2964,10 +2964,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\TryToDiveMe-Bikini_Bottom\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TryToDiveMe-Bikini_Bottom\2.0.2\icon.png
 - manifestVersion: 1
   name: Magic_Wesley-Acidir
   authorName: Magic_Wesley
@@ -3079,9 +3078,10 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 10
+    patch: 11
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Gemumoddo-LethalEmotesAPI\1.2.10\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Gemumoddo-LethalEmotesAPI\icon.png
 - manifestVersion: 1
   name: Gemumoddo-BadAssCompany
   authorName: Gemumoddo
