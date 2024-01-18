@@ -999,29 +999,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Hexa-Hexas_Cosmetics\icon.png
 - manifestVersion: 1
-  name: Nebulaetrix-ELSlowdown
-  authorName: Nebulaetrix
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Nebulaetrix/ELSlowdown/
-  displayName: ELSlowdown
-  description: Earth Levithan emerging too fast after you only just heard the
-    rumble? Here's the solution
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Nebulaetrix-ELSlowdown\icon.png
-- manifestVersion: 1
   name: MoreLethal-NoBackgroundAudio
   authorName: MoreLethal
   websiteUrl: https://thunderstore.io/c/lethal-company/p/MoreLethal/NoBackgroundAudio/
@@ -1557,9 +1534,9 @@
   authorName: kyxino
   websiteUrl: https://thunderstore.io/c/lethal-company/p/kyxino/LethalUtilities/
   displayName: LethalUtilities
-  description: (Weather multipliers fixed.) Customize all kinds of things like
-    your gear, sprint, teleporters, map/weather multipliers for spawn chances
-    and scrap value/amount, and more!
+  description: (You can now block player's mod list!) Customize all kinds of
+    things like your gear, sprint, teleporters, map/weather multipliers for
+    spawn chances and scrap value/amount, and more!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1572,10 +1549,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 19
+    patch: 20
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\kyxino-LethalUtilities\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\kyxino-LethalUtilities\1.2.20\icon.png
 - manifestVersion: 1
   name: Hildebert-Hildebert_Angry_Indian_Scammer_Bug
   authorName: Hildebert
@@ -1967,31 +1943,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Ceelery-Kast\icon.png
 - manifestVersion: 1
-  name: KayNetsua-E_Gypt_Moon
-  authorName: KayNetsua
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/KayNetsua/E_Gypt_Moon/
-  displayName: E_Gypt_Moon
-  description: Adds the intermediate-level moon 10-EGypt to the game. If you are
-    using LethalExpansion, please install LethalExpansionCore!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.11.2
-    - IAmBatby-LethalLevelLoader-1.0.7
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 0
-    patch: 7
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\KayNetsua-E_Gypt_Moon\icon.png
-- manifestVersion: 1
   name: Invertigo-JetpackHandling
   authorName: Invertigo
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Invertigo/JetpackHandling/
@@ -2114,29 +2065,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\scoopy-Scoopys_Variety_Mod\icon.png
-- manifestVersion: 1
-  name: coffeecat-WindowsXPTerminal
-  authorName: coffeecat
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/coffeecat/WindowsXPTerminal/
-  displayName: WindowsXPTerminal
-  description: Changes some terminal sounds to those from Windows XP
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - no00ob-LCSoundTool-1.4.0
-    - Clementinise-CustomSounds-2.2.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\coffeecat-WindowsXPTerminal\icon.png
 - manifestVersion: 1
   name: Woecust-Immersive_Visor
   authorName: Woecust
@@ -2346,31 +2274,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\TheBeeTeam-LandmineFix\icon.png
 - manifestVersion: 1
-  name: Raybiii-SnoopDoggRobot
-  authorName: Raybiii
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Raybiii/SnoopDoggRobot/
-  displayName: SnoopDoggRobot
-  description: Replaces the Robot Cheer sound effect with a Remix of Snoop Dogg's
-    Drop It Like It's hot and the Thomas The Train Theme Song
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - no00ob-LCSoundTool-1.2.2
-    - Clementinise-CustomSounds-1.2.4
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 4
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Raybiii-SnoopDoggRobot\icon.png
-- manifestVersion: 1
   name: JunLethalCompany-GamblingMachineAtTheCompany
   authorName: JunLethalCompany
   websiteUrl: https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/
@@ -2391,7 +2294,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\JunLethalCompany-GamblingMachineAtTheCompany\icon.png
@@ -2547,13 +2450,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - NotAtomicBomb-TerminalApi-1.5.0
     - Evaisa-LethalLib-0.13.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 2
-    patch: 3
+    major: 2
+    minor: 0
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\loaforc-FacilityMeltdown\icon.png
@@ -2966,7 +2870,8 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TryToDiveMe-Bikini_Bottom\2.0.2\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\TryToDiveMe-Bikini_Bottom\icon.png
 - manifestVersion: 1
   name: Magic_Wesley-Acidir
   authorName: Magic_Wesley
@@ -3078,7 +2983,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 11
+    patch: 12
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Gemumoddo-LethalEmotesAPI\icon.png
@@ -3148,3 +3053,75 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Gemumoddo-Tf2Emotes\icon.png
+- manifestVersion: 1
+  name: Major_And_Skiz-MoreInteriors
+  authorName: Major_And_Skiz
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/
+  displayName: MoreInteriors
+  description: Adds some more interior tilesets for your crew to scavenge in.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - IAmBatby-LethalLevelLoader-1.0.6
+    - Evaisa-LethalLib-0.13.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Major_And_Skiz-MoreInteriors\icon.png
+- manifestVersion: 1
+  name: Alice-ScarletDevilMansion
+  authorName: Alice
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/
+  displayName: ScarletDevilMansion
+  description: Adds the Scarlet Devil Mansion from Touhou as a possible dungeon to
+    the snow maps.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.11.0
+    - IAmBatby-LethalLevelLoader-1.0.7
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Alice-ScarletDevilMansion\icon.png
+- manifestVersion: 1
+  name: NotAtomicBomb-TerminalApi
+  authorName: NotAtomicBomb
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/
+  displayName: TerminalApi
+  description: A Terminal Api
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\NotAtomicBomb-TerminalApi\icon.png
