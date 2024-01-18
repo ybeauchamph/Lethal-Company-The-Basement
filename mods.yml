@@ -80,7 +80,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
+    minor: 5
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -99,12 +99,12 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - no00ob-LCSoundTool-1.3.2
+    - no00ob-LCSoundTool-1.5.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 2
+    minor: 3
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -901,7 +901,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 19
+    patch: 21
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
@@ -947,7 +947,7 @@
   optionalDependencies: []
   versionNumber:
     major: 3
-    minor: 0
+    minor: 1
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -1378,14 +1378,14 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-HookGenPatcher-0.0.5
-    - IAmBatby-LethalLevelLoader-1.0.6
-    - Evaisa-LethalLib-0.13.1
+    - Evaisa-LethalLib-0.13.2
+    - IAmBatby-LethalLevelLoader-1.0.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Badham_Mods-SCPFoundationDungeon\icon.png
@@ -1572,7 +1572,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 17
+    patch: 19
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\kyxino-LethalUtilities\icon.png
@@ -1665,7 +1665,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 15
+    patch: 19
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
@@ -1971,8 +1971,8 @@
   authorName: KayNetsua
   websiteUrl: https://thunderstore.io/c/lethal-company/p/KayNetsua/E_Gypt_Moon/
   displayName: E_Gypt_Moon
-  description: Adds the intermediate-level moon 10-EGypt to the game. No longer
-    requires LethalExpansion!
+  description: Adds the intermediate-level moon 10-EGypt to the game. If you are
+    using LethalExpansion, please install LethalExpansionCore!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1981,13 +1981,13 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.11.2
-    - IAmBatby-LethalLevelLoader-1.0.6
+    - IAmBatby-LethalLevelLoader-1.0.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 0
-    patch: 4
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\KayNetsua-E_Gypt_Moon\icon.png
@@ -2066,7 +2066,7 @@
   authorName: Zingar
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Zingar/SecretLabs/
   displayName: SecretLabs
-  description: "[3.2 Release] A new moon based on the game SCP:Secret Lab and
+  description: "[3.3 Release] A custom moon based on the game SCP:Secret Lab and
     located on the facility Site-02. An abandoned lab once known as Site-02.
     Proceed with caution, entities once contained here now roam its halls."
   gameVersion: "0"
@@ -2076,13 +2076,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.6
+    - Evaisa-LethalLib-0.11.1
+    - IAmBatby-LethalLevelLoader-1.0.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 3
-    minor: 2
-    patch: 4
+    minor: 3
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Zingar-SecretLabs\icon.png
@@ -2172,14 +2173,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - no00ob-LCSoundTool-1.2.2
-    - Clementinise-CustomSounds-1.2.3
+    - no00ob-LCSoundTool-1.5.0
+    - Clementinise-CustomSounds-2.3.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
-    patch: 3
+    minor: 3
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\AbyssalCompanyTeam-AbyssalAudio\icon.png
@@ -2408,13 +2409,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.11.2
+    - Evaisa-LethalLib-0.13.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 6
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
@@ -2462,7 +2463,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 115
+    patch: 118
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\PotatoePet-AdvancedCompany\icon.png
@@ -2898,7 +2899,7 @@
   authorName: Zingar
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Zingar/Atlas_Abyss/
   displayName: Atlas_Abyss
-  description: "[1.0 Release] A new moon of dark secrets, jagged terrain and
+  description: "[1.1 Release] A new moon of dark secrets, jagged terrain and
     carved stone. Below the surface, the Masked Men have broken free. The abyss
     below extends *redacted* metres and none have survived the fall."
   gameVersion: "0"
@@ -2908,13 +2909,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.6
+    - Evaisa-LethalLib-0.11.1
+    - IAmBatby-LethalLevelLoader-1.0.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 2
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Zingar-Atlas_Abyss\icon.png
@@ -2923,8 +2925,9 @@
   authorName: LethalMoonTeam
   websiteUrl: https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/
   displayName: Ether
-  description: A new moon. Home to a large abandoned city. [1.5.3 Release] [Join
-    our discord for access to unreleased moons!] <3]
+  description: A new moon. Home to a large abandoned city. Requires Lethal
+    Expansion Core. WORKS WITH LLL & CUSTOM INTERIORS NOW! [Join our discord for
+    access to unreleased moons!] [MAIN Release]
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -2932,13 +2935,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.19
+    - jockie-LethalExpansionCore-1.3.14
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 5
-    patch: 3
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\LethalMoonTeam-Ether\icon.png
@@ -2947,21 +2950,21 @@
   authorName: TryToDiveMe
   websiteUrl: https://thunderstore.io/c/lethal-company/p/TryToDiveMe/Bikini_Bottom/
   displayName: Bikini_Bottom
-  description: This mod includes 1 Bikini Bottom Moon and 19 Spongebob-Themed Items.
+  description: This mod includes 1 Bikini Bottom Moon and 35 Spongebob-Themed
+    Items. Version 2.0.0 reworked moon to be smaller!
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.19
+    - jockie-LethalExpansionCore-1.3.14
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
+    major: 2
     minor: 0
-    patch: 7
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\TryToDiveMe-Bikini_Bottom\icon.png
@@ -3076,10 +3079,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 5
+    patch: 10
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Gemumoddo-LethalEmotesAPI\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Gemumoddo-LethalEmotesAPI\1.2.10\icon.png
 - manifestVersion: 1
   name: Gemumoddo-BadAssCompany
   authorName: Gemumoddo
@@ -3144,4 +3146,5 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Gemumoddo-Tf2Emotes\1.0.3\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Gemumoddo-Tf2Emotes\icon.png
