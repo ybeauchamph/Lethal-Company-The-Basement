@@ -1206,7 +1206,8 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Badham_Mods-SCPFoundationDungeon\2.0.2\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Badham_Mods-SCPFoundationDungeon\icon.png
 - manifestVersion: 1
   name: bandaidroo-BandaidsMegaCosmetics
   authorName: bandaidroo
@@ -1484,9 +1485,8 @@
     major: 1
     minor: 8
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-TooManyEmotes\1.8.0\icon.png
 - manifestVersion: 1
   name: undefined-SlidingCompany
   authorName: undefined
