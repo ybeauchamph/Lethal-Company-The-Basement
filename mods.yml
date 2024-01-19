@@ -19,27 +19,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\icon.png
 - manifestVersion: 1
-  name: 2018-LC_API
-  authorName: "2018"
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/2018/LC_API/
-  displayName: LC_API
-  description: Multipurpose modding API for Lethal Company
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 3
-    minor: 4
-    patch: 4
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\2018-LC_API\3.4.4\icon.png
-- manifestVersion: 1
   name: x753-More_Suits
   authorName: x753
   websiteUrl: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
@@ -105,7 +84,7 @@
   versionNumber:
     major: 2
     minor: 3
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Clementinise-CustomSounds\icon.png
@@ -292,29 +271,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-MoreBlood\icon.png
 - manifestVersion: 1
-  name: FlipMods-SkipToMultiplayerMenu
-  authorName: FlipMods
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/SkipToMultiplayerMenu/
-  displayName: SkipToMultiplayerMenu
-  description: Skips the PreInit and InitGame scenes, and loads directly into the
-    multiplayer menu.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\FlipMods-SkipToMultiplayerMenu\icon.png
-- manifestVersion: 1
   name: FutureSavior-CrankThatJester
   authorName: FutureSavior
   websiteUrl: https://thunderstore.io/c/lethal-company/p/FutureSavior/CrankThatJester/
@@ -366,7 +322,7 @@
   authorName: malco
   websiteUrl: https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/
   displayName: Lategame_Upgrades
-  description: "V3 : Contracts, Wheelbarrow, Helmet, Sick Beats"
+  description: "V3.1.0 : Contracts, Wheelbarrow, Helmet, Sick Beats, More"
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -374,14 +330,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-HookGenPatcher-0.0.5
     - Evaisa-LethalLib-0.13.1
+    - Evaisa-HookGenPatcher-0.0.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 3
-    minor: 0
-    patch: 4
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\malco-Lategame_Upgrades\icon.png
@@ -499,28 +455,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Sligili-HDLethalCompany\icon.png
-- manifestVersion: 1
-  name: Sligili-More_Emotes
-  authorName: Sligili
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
-  displayName: More_Emotes
-  description: "[v49/v45] Adds even more emotes"
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Ozone-Runtime_Netcode_Patcher-0.2.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 3
-    patch: 3
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sligili-More_Emotes\1.3.3\icon.png
 - manifestVersion: 1
   name: Stoners-SpiderManSuitV2
   authorName: Stoners
@@ -815,29 +749,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Hexnet111-SuitSaver\icon.png
 - manifestVersion: 1
-  name: BLKNeko-HookGun
-  authorName: BLKNeko
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/BLKNeko/HookGun/
-  displayName: HookGun
-  description: A HookGun for LethalCompany, maybe a LethalHook? - THE COMPANY APPROVES!!!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - 2018-LC_API-2.1.1
-    - Evaisa-LethalLib-0.5.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 3
-    patch: 4
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BLKNeko-HookGun\1.3.4\icon.png
-- manifestVersion: 1
   name: NiceHairs-Symbiosis
   authorName: NiceHairs
   websiteUrl: https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/
@@ -953,30 +864,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
 - manifestVersion: 1
-  name: FlipMods-ObjectVolumeController
-  authorName: FlipMods
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/
-  displayName: ObjectVolumeController
-  description: Allows adjusting the volume on the media objects, such as
-    television, boombox, and record player, by pressing the [-] and [+] keys.
-    Can configure the default volumes for each device!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 4
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\FlipMods-ObjectVolumeController\icon.png
-- manifestVersion: 1
   name: Hexa-Hexas_Cosmetics
   authorName: Hexa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Hexa/Hexas_Cosmetics/
@@ -1040,9 +927,8 @@
     major: 1
     minor: 1
     patch: 2
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\FutureSavior-Boombox_Sync_Fix\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FutureSavior-Boombox_Sync_Fix\1.1.2\icon.png
 - manifestVersion: 1
   name: Steven-Custom_Boombox_Music
   authorName: Steven
@@ -1062,9 +948,8 @@
     major: 1
     minor: 4
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Steven-Custom_Boombox_Music\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Steven-Custom_Boombox_Music\1.4.0\icon.png
 - manifestVersion: 1
   name: CodeEnder-Custom_Boombox_Fix
   authorName: CodeEnder
@@ -1085,9 +970,8 @@
     major: 1
     minor: 2
     patch: 2
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\CodeEnder-Custom_Boombox_Fix\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\CodeEnder-Custom_Boombox_Fix\1.2.2\icon.png
 - manifestVersion: 1
   name: ShadowRocks2-ShadowsMemeMusic
   authorName: ShadowRocks2
@@ -1185,28 +1069,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Ozone-BepInUtils\icon.png
 - manifestVersion: 1
-  name: Backrooms-Backrooms
-  authorName: Backrooms
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/
-  displayName: Backrooms
-  description: Explore the Backrooms, a surreal labyrinth in this mod. Navigate
-    endless, eerie spaces, and uncover mysteries.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - Evaisa-LethalLib-0.9.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 1
-    patch: 3
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Backrooms-Backrooms\0.1.3\icon.png
-- manifestVersion: 1
   name: linkoid-DissonanceLagFix
   authorName: linkoid
   websiteUrl: https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/
@@ -1229,26 +1091,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\linkoid-DissonanceLagFix\icon.png
-- manifestVersion: 1
-  name: Sv_Matt-HideModList
-  authorName: Sv_Matt
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/
-  displayName: HideModList
-  description: Hides the mod list popup
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies: []
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sv_Matt-HideModList\1.0.1\icon.png
 - manifestVersion: 1
   name: EladNLG-EladsHUD
   authorName: EladNLG
@@ -1346,7 +1188,7 @@
   authorName: Badham_Mods
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/
   displayName: SCPFoundationDungeon
-  description: Adds the SCP foundation as a potential dungeon to exlore.
+  description: Adds the SCP foundation as a potential dungeon to explore.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1362,10 +1204,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Badham_Mods-SCPFoundationDungeon\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Badham_Mods-SCPFoundationDungeon\2.0.2\icon.png
 - manifestVersion: 1
   name: bandaidroo-BandaidsMegaCosmetics
   authorName: bandaidroo
@@ -1551,7 +1392,8 @@
     minor: 2
     patch: 20
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\kyxino-LethalUtilities\1.2.20\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\kyxino-LethalUtilities\icon.png
 - manifestVersion: 1
   name: Hildebert-Hildebert_Angry_Indian_Scammer_Bug
   authorName: Hildebert
@@ -1640,8 +1482,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 7
-    patch: 19
+    minor: 8
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\FlipMods-TooManyEmotes\icon.png
@@ -2034,7 +1876,7 @@
   versionNumber:
     major: 3
     minor: 3
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Zingar-SecretLabs\icon.png
@@ -2102,13 +1944,13 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - no00ob-LCSoundTool-1.5.0
-    - Clementinise-CustomSounds-2.3.0
+    - Clementinise-CustomSounds-2.3.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 3
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\AbyssalCompanyTeam-AbyssalAudio\icon.png
@@ -2450,14 +2292,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - NotAtomicBomb-TerminalApi-1.5.0
-    - Evaisa-LethalLib-0.13.0
+    - Evaisa-LethalLib-0.13.2
+    - NotAtomicBomb-TerminalApi-1.5.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 0
-    patch: 0
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\loaforc-FacilityMeltdown\icon.png
@@ -2555,50 +2397,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Bobbie-FixRPCLag\icon.png
 - manifestVersion: 1
-  name: RedCrowbar-BuffedPresents
-  authorName: RedCrowbar
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/RedCrowbar/BuffedPresents/
-  displayName: BuffedPresents
-  description: Presents can give buyables or better value scrap
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies: []
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 0
-    patch: 5
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\RedCrowbar-BuffedPresents\icon.png
-- manifestVersion: 1
-  name: egeadam-MoreScreams
-  authorName: egeadam
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/
-  displayName: MoreScreams
-  description: This modification allows you to hear players' voices for 2 seconds
-    (adjustable) after they die.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 3
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\egeadam-MoreScreams\icon.png
-- manifestVersion: 1
   name: MrHydralisk-EnhancedRadarBooster
   authorName: MrHydralisk
   websiteUrl: https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/
@@ -2621,28 +2419,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
 - manifestVersion: 1
-  name: freesnow-CollectYourDead
-  authorName: freesnow
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/freesnow/CollectYourDead/
-  displayName: CollectYourDead
-  description: Bodies are automatically collected when teleported back to the
-    ship.  Tested to support v45, v47, v48, and v49!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies: []
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\freesnow-CollectYourDead\icon.png
-- manifestVersion: 1
   name: fumiko-BetterMonitor
   authorName: fumiko
   websiteUrl: https://thunderstore.io/c/lethal-company/p/fumiko/BetterMonitor/
@@ -2664,28 +2440,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\fumiko-BetterMonitor\icon.png
-- manifestVersion: 1
-  name: PC-FireExitFlip
-  authorName: PC
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/PC/FireExitFlip/
-  displayName: FireExitFlip
-  description: When entering through fire exit this makes you turn away from the door
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\PC-FireExitFlip\icon.png
 - manifestVersion: 1
   name: PostMortem-BetterLightning
   authorName: PostMortem
@@ -2731,28 +2485,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Spyci-CozyImprovements\icon.png
-- manifestVersion: 1
-  name: ViViKo-ItemClippingFix
-  authorName: ViViKo
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/ViViKo/ItemClippingFix/
-  displayName: ItemClippingFix
-  description: Fixes ground/storage clipping & rotation on almost all items
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 3
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\ViViKo-ItemClippingFix\icon.png
 - manifestVersion: 1
   name: Luigi-Nintendo_Hats
   authorName: Luigi
@@ -2814,13 +2546,13 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.11.1
-    - IAmBatby-LethalLevelLoader-1.0.5
+    - IAmBatby-LethalLevelLoader-1.0.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 2
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Zingar-Atlas_Abyss\icon.png
@@ -2884,14 +2616,14 @@
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - jockie-LethalExpansionCore-1.3.14
+    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 1
+    minor: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Magic_Wesley-Acidir\icon.png
@@ -2907,13 +2639,13 @@
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - jockie-LethalExpansionCore-1.3.14
+    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
+    minor: 4
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -3100,9 +2832,8 @@
     major: 1
     minor: 1
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Alice-ScarletDevilMansion\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-ScarletDevilMansion\1.1.0\icon.png
 - manifestVersion: 1
   name: NotAtomicBomb-TerminalApi
   authorName: NotAtomicBomb
@@ -3121,7 +2852,100 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\NotAtomicBomb-TerminalApi\icon.png
+- manifestVersion: 1
+  name: Yoshify-DiscJockey
+  authorName: Yoshify
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Yoshify/DiscJockey/
+  displayName: DiscJockey
+  description: An all-in-one custom Boombox solution - featuring song downloading,
+    custom song loading, realtime audio streams and a fully networked media
+    player UI
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Yoshify-DiscJockey\icon.png
+- manifestVersion: 1
+  name: quackandcheese-ToggleMute
+  authorName: quackandcheese
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/quackandcheese/ToggleMute/
+  displayName: ToggleMute
+  description: A mod for Lethal Company that adds a customizable toggle mute hotkey
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.4.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\quackandcheese-ToggleMute\icon.png
+- manifestVersion: 1
+  name: Nyxchrono-DoorBreach
+  authorName: Nyxchrono
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Nyxchrono/DoorBreach/
+  displayName: DoorBreach
+  description: DoorBreach is a mod for Lethal Company that allows players to hit a
+    locked door many times with a shovel to open it.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Nyxchrono-DoorBreach\icon.png
+- manifestVersion: 1
+  name: ShaosilGaming-GeneralImprovements
+  authorName: ShaosilGaming
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/
+  displayName: GeneralImprovements
+  description: Fixes many bugs and adds many QoL improvements and optional tweaks.
+    Very configurable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 24
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
