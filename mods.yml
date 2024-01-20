@@ -129,7 +129,7 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
@@ -927,8 +927,9 @@
     major: 1
     minor: 1
     patch: 2
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FutureSavior-Boombox_Sync_Fix\1.1.2\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\FutureSavior-Boombox_Sync_Fix\icon.png
 - manifestVersion: 1
   name: Steven-Custom_Boombox_Music
   authorName: Steven
@@ -948,8 +949,9 @@
     major: 1
     minor: 4
     patch: 0
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Steven-Custom_Boombox_Music\1.4.0\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Steven-Custom_Boombox_Music\icon.png
 - manifestVersion: 1
   name: CodeEnder-Custom_Boombox_Fix
   authorName: CodeEnder
@@ -970,8 +972,9 @@
     major: 1
     minor: 2
     patch: 2
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\CodeEnder-Custom_Boombox_Fix\1.2.2\icon.png
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\CodeEnder-Custom_Boombox_Fix\icon.png
 - manifestVersion: 1
   name: ShadowRocks2-ShadowsMemeMusic
   authorName: ShadowRocks2
@@ -1203,8 +1206,8 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
-    patch: 2
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Badham_Mods-SCPFoundationDungeon\icon.png
@@ -1681,15 +1684,15 @@
   installMode: managed
   loaders: []
   dependencies:
+    - HolographicWings-LethalExpansion-1.3.21
     - BepInEx-BepInExPack-5.4.2100
-    - HolographicWings-LethalExpansion-1.3.19
     - sfDesat-ExpansionAssets-1.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 1
+    minor: 1
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\sfDesat-Aquatis\icon.png
@@ -1967,13 +1970,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.7.0
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.13.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\MoonJuice-RubberChicken\icon.png
@@ -2561,23 +2565,22 @@
   authorName: LethalMoonTeam
   websiteUrl: https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/
   displayName: Ether
-  description: A new moon. Home to a large abandoned city. Requires Lethal
-    Expansion Core. WORKS WITH LLL & CUSTOM INTERIORS NOW! [Join our discord for
-    access to unreleased moons!] [MAIN Release]
+  description: Ether is a new moon home to a large abandoned city. Compatible with
+    LLL & custom interiors. Join the Lethal Moon Community! Link in desc.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - jockie-LethalExpansionCore-1.3.14
+    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 5
-    patch: 5
+    patch: 6
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\LethalMoonTeam-Ether\icon.png
@@ -2600,7 +2603,7 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\TryToDiveMe-Bikini_Bottom\icon.png
@@ -2715,7 +2718,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 12
+    patch: 14
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Gemumoddo-LethalEmotesAPI\icon.png
@@ -2797,16 +2800,16 @@
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.13.2
     - Evaisa-HookGenPatcher-0.0.5
-    - IAmBatby-LethalLevelLoader-1.0.6
-    - Evaisa-LethalLib-0.13.0
+    - BepInEx-BepInExPack-5.4.2100
+    - IAmBatby-LethalLevelLoader-1.0.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 0
+    minor: 2
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Major_And_Skiz-MoreInteriors\icon.png
@@ -2856,30 +2859,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\NotAtomicBomb-TerminalApi\icon.png
-- manifestVersion: 1
-  name: Yoshify-DiscJockey
-  authorName: Yoshify
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Yoshify/DiscJockey/
-  displayName: DiscJockey
-  description: An all-in-one custom Boombox solution - featuring song downloading,
-    custom song loading, realtime audio streams and a fully networked media
-    player UI
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Yoshify-DiscJockey\icon.png
 - manifestVersion: 1
   name: quackandcheese-ToggleMute
   authorName: quackandcheese
@@ -2949,3 +2928,94 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
+- manifestVersion: 1
+  name: Zaggy1024-PathfindingLagFix
+  authorName: Zaggy1024
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/
+  displayName: PathfindingLagFix
+  description: Lethal Company mod to fix stutters caused by Brackens and other AI.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Zaggy1024-PathfindingLagFix\icon.png
+- manifestVersion: 1
+  name: NeonFlames-BepInEx_SplashScreen
+  authorName: NeonFlames
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/NeonFlames/BepInEx_SplashScreen/
+  displayName: BepInEx_SplashScreen
+  description: Loading screen for BepInEx. See README for information on how to use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\NeonFlames-BepInEx_SplashScreen\icon.png
+- manifestVersion: 1
+  name: Justice69-ImmersiveScraps
+  authorName: Justice69
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Justice69/ImmersiveScraps/
+  displayName: ImmersiveScraps
+  description: Adds a lot of new lore-friendly scraps for your game. Assets have
+    been cleaned and optimized for zero performance issue.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - jockie-LethalExpansionCore-1.3.14
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Justice69-ImmersiveScraps\icon.png
+- manifestVersion: 1
+  name: Magic_Wesley-Etern
+  authorName: Magic_Wesley
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Etern/
+  displayName: Etern
+  description: Etern is a unique new desert moon.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - jockie-LethalExpansionCore-1.3.14
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Magic_Wesley-Etern\icon.png

@@ -1,6 +1,11 @@
 {
   "cosmetics": {
-    "activated_cosmetics": []
+    "activated_cosmetics": [
+      "wackycosmetics.burningflamesteamcaptain",
+      "luigifan1.bowsershell",
+      "luigifan1.dktie",
+      "ZTK.BBKnife"
+    ]
   },
   "hotbar": {
     "hotbar_scale": 0.9,
