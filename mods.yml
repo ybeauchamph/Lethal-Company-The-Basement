@@ -2517,8 +2517,8 @@
   authorName: LethalMoonTeam
   websiteUrl: https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/
   displayName: Ether
-  description: Ether is a new moon home to a large abandoned city. Compatible with
-    LLL & LE or LE-core. Join the Lethal Moon Community! Link in desc.
+  description: Ether is a unique late game moon home to a large abandoned city.
+    Suggest Changes To The Map In Our Discord!
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -2532,7 +2532,7 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\LethalMoonTeam-Ether\icon.png
@@ -2995,11 +2995,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 1
-    patch: 9
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\LethalResonance-LETHALRESONANCE\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\LethalResonance-LETHALRESONANCE\2.2.0\icon.png
 - manifestVersion: 1
   name: RedHuskyStudios-USC_Vortex
   authorName: RedHuskyStudios
