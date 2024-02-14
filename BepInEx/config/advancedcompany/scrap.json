@@ -13,13 +13,25 @@
       }
     },
     {
+      "key": "Alcohol Flask",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 80,
+        "override_max_value": false,
+        "max_value": 160,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
       "key": "Amethyst Cluster",
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 190,
+        "min_value": 140,
         "override_max_value": false,
-        "max_value": 240,
+        "max_value": 180,
         "override_weight": false,
         "weight": 1.12
       }
@@ -53,9 +65,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 750,
+        "min_value": 450,
         "override_max_value": false,
-        "max_value": 1250,
+        "max_value": 875,
         "override_weight": false,
         "weight": 13.0
       }
@@ -70,6 +82,30 @@
         "max_value": 65,
         "override_weight": false,
         "weight": 1.05
+      }
+    },
+    {
+      "key": "Army Canteen",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 90,
+        "override_max_value": false,
+        "max_value": 140,
+        "override_weight": false,
+        "weight": 1.02
+      }
+    },
+    {
+      "key": "Army Helmet",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 90,
+        "override_max_value": false,
+        "max_value": 140,
+        "override_weight": false,
+        "weight": 1.08
       }
     },
     {
@@ -421,6 +457,18 @@
       }
     },
     {
+      "key": "Car battery",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 80,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.25
+      }
+    },
+    {
       "key": "Cash register",
       "value": {
         "active": true,
@@ -478,6 +526,18 @@
         "max_value": 75,
         "override_weight": false,
         "weight": 1.2
+      }
+    },
+    {
+      "key": "Clamp",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 120,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.18
       }
     },
     {
@@ -541,6 +601,18 @@
       }
     },
     {
+      "key": "Controller",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 624,
+        "override_max_value": false,
+        "max_value": 874,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
       "key": "Cookie Fumo",
       "value": {
         "active": true,
@@ -569,9 +641,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 120,
+        "min_value": 80,
         "override_max_value": false,
-        "max_value": 150,
+        "max_value": 120,
         "override_weight": false,
         "weight": 1.08
       }
@@ -797,9 +869,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 150,
+        "min_value": 130,
         "override_max_value": false,
-        "max_value": 180,
+        "max_value": 160,
         "override_weight": false,
         "weight": 1.07
       }
@@ -809,9 +881,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 120,
+        "min_value": 90,
         "override_max_value": false,
-        "max_value": 170,
+        "max_value": 130,
         "override_weight": false,
         "weight": 1.09
       }
@@ -850,6 +922,18 @@
         "max_value": 160,
         "override_weight": false,
         "weight": 1.12
+      }
+    },
+    {
+      "key": "Gameboy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 60,
+        "override_max_value": false,
+        "max_value": 120,
+        "override_weight": false,
+        "weight": 1.0
       }
     },
     {
@@ -973,6 +1057,18 @@
       }
     },
     {
+      "key": "Gramophone",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 120,
+        "override_max_value": false,
+        "max_value": 160,
+        "override_weight": false,
+        "weight": 1.18
+      }
+    },
+    {
       "key": "Green Test Tube",
       "value": {
         "active": true,
@@ -1018,6 +1114,18 @@
         "max_value": 250,
         "override_weight": false,
         "weight": 1.0476
+      }
+    },
+    {
+      "key": "Hammer",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 75,
+        "override_max_value": false,
+        "max_value": 150,
+        "override_weight": false,
+        "weight": 1.15
       }
     },
     {
@@ -1217,9 +1325,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 749,
+        "min_value": 624,
         "override_max_value": false,
-        "max_value": 999,
+        "max_value": 874,
         "override_weight": false,
         "weight": 1.0476191
       }
@@ -1465,6 +1573,18 @@
       }
     },
     {
+      "key": "Old Radio",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 90,
+        "override_max_value": false,
+        "max_value": 120,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
       "key": "Packaged Meat Meal",
       "value": {
         "active": true,
@@ -1621,6 +1741,18 @@
       }
     },
     {
+      "key": "Pliers",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.06
+      }
+    },
+    {
       "key": "Plunger",
       "value": {
         "active": true,
@@ -1765,6 +1897,18 @@
       }
     },
     {
+      "key": "RockingHorse",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 120,
+        "override_max_value": false,
+        "max_value": 160,
+        "override_weight": false,
+        "weight": 1.18
+      }
+    },
+    {
       "key": "Rubber Chicken",
       "value": {
         "active": true,
@@ -1889,9 +2033,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 120,
+        "min_value": 100,
         "override_max_value": false,
-        "max_value": 160,
+        "max_value": 140,
         "override_weight": false,
         "weight": 1.08
       }
@@ -1921,6 +2065,18 @@
       }
     },
     {
+      "key": "Socket Wrench",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 120,
+        "override_weight": false,
+        "weight": 1.08
+      }
+    },
+    {
       "key": "Spatula",
       "value": {
         "active": true,
@@ -1930,6 +2086,18 @@
         "max_value": 34,
         "override_weight": false,
         "weight": 1.05
+      }
+    },
+    {
+      "key": "Squeaky toy",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 95,
+        "override_weight": false,
+        "weight": 1.0
       }
     },
     {
@@ -1985,9 +2153,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 75,
+        "min_value": 50,
         "override_max_value": false,
-        "max_value": 120,
+        "max_value": 110,
         "override_weight": false,
         "weight": 1.03
       }
@@ -2093,9 +2261,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 85,
+        "min_value": 60,
         "override_max_value": false,
-        "max_value": 130,
+        "max_value": 80,
         "override_weight": false,
         "weight": 1.06
       }
@@ -2329,6 +2497,18 @@
       }
     },
     {
+      "key": "TypeWriter",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 90,
+        "override_max_value": false,
+        "max_value": 120,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
       "key": "Umbrella",
       "value": {
         "active": true,
@@ -2413,6 +2593,18 @@
       }
     },
     {
+      "key": "WheelRim",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 90,
+        "override_max_value": false,
+        "max_value": 140,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
       "key": "Whoopie cushion",
       "value": {
         "active": true,
@@ -2434,6 +2626,18 @@
         "max_value": 375,
         "override_weight": false,
         "weight": 1.03
+      }
+    },
+    {
+      "key": "WireSpool",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 90,
+        "override_max_value": false,
+        "max_value": 120,
+        "override_weight": false,
+        "weight": 1.12
       }
     },
     {

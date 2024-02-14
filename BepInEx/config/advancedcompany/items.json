@@ -29,7 +29,7 @@
       "value": {
         "active": true,
         "override_price": false,
-        "price": 150,
+        "price": 125,
         "override_max_discount": false,
         "max_discount": 80,
         "override_weight": false,
@@ -211,9 +211,9 @@
         "override_price": false,
         "price": 80,
         "override_max_discount": false,
-        "max_discount": 80,
+        "max_discount": 70,
         "override_weight": false,
-        "weight": 1.09523809
+        "weight": 1.0476191
       }
     },
     {
@@ -309,7 +309,7 @@
         "override_max_discount": false,
         "max_discount": 80,
         "override_weight": false,
-        "weight": 1.0476191
+        "weight": 1.0
       }
     },
     {
