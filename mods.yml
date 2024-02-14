@@ -430,9 +430,8 @@
     major: 1
     minor: 5
     patch: 6
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Sligili-HDLethalCompany\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sligili-HDLethalCompany\1.5.6\icon.png
 - manifestVersion: 1
   name: Stoners-SpiderManSuitV2
   authorName: Stoners
@@ -3193,4 +3192,29 @@
     minor: 1
     patch: 5
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\LethalMatt-Outpost_31\1.1.5\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\LethalMatt-Outpost_31\icon.png
+- manifestVersion: 1
+  name: stefan750-LCUltrawide
+  authorName: stefan750
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/stefan750/LCUltrawide/
+  displayName: LCUltrawide
+  description: Adds support for ultrawide monitors (or any other resolution and
+    aspect ratio), and allows changing the size and aspect ratio of the ingame
+    HUD
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\stefan750-LCUltrawide\icon.png
