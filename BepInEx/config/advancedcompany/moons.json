@@ -4998,6 +4998,13 @@
               "override": false,
               "rarity": 52
             }
+          },
+          {
+            "key": "Peeper",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
           }
         ],
         "override_outside_enemies_max_power": false,
@@ -13633,6 +13640,271 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "Outpost 31",
+      "value": {
+        "override_price": false,
+        "price": 0,
+        "override_dungeon_size": false,
+        "dungeon_size": 2.0,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 13,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 17,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 94
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 80
+            }
+          },
+          {
+            "key": "Flask",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 83
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 89
+            }
+          },
+          {
+            "key": "Candy",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Pill bottle",
+            "value": {
+              "override": false,
+              "rarity": 67
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Dust pan",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Fancy lamp",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Hairdryer",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Rubber Ducky",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 34
+            }
+          },
+          {
+            "key": "Yield sign",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Remote",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Gold bar",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Toothpaste",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 42
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 20,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 7.0,
+        "daytime_enemies": [],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 12,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 38
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 14,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 77
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 36
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 74
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 23
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 69
             }
           }
         ]

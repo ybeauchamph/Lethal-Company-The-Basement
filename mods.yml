@@ -131,7 +131,8 @@
     minor: 8
     patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\notnotnotswipez-MoreCompany\1.8.1\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
 - manifestVersion: 1
   name: EliteMasterEric-WackyCosmetics
   authorName: EliteMasterEric
@@ -224,28 +225,6 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Evaisa-LethalThings\icon.png
-- manifestVersion: 1
-  name: FlipMods-LetMeLookDown
-  authorName: FlipMods
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/
-  displayName: LetMeLookDown
-  description: This mod simply lets you look down all the way. Well, almost all the way.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\FlipMods-LetMeLookDown\icon.png
 - manifestVersion: 1
   name: FlipMods-MoreBlood
   authorName: FlipMods
@@ -1159,9 +1138,8 @@
     major: 0
     minor: 9
     patch: 0
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\ATK-UnlimitedTZP\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ATK-UnlimitedTZP\0.9.0\icon.png
 - manifestVersion: 1
   name: TeamClark-Vault_Boy_Suit
   authorName: TeamClark
@@ -1395,9 +1373,8 @@
     major: 1
     minor: 2
     patch: 21
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\kyxino-LethalUtilities\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\kyxino-LethalUtilities\1.2.21\icon.png
 - manifestVersion: 1
   name: Hildebert-Hildebert_Angry_Indian_Scammer_Bug
   authorName: Hildebert
@@ -1699,27 +1676,6 @@
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Arffeh-WhyAreYouRunning\icon.png
 - manifestVersion: 1
-  name: Jamil-Corporate_Restructure
-  authorName: Jamil
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/
-  displayName: Corporate_Restructure
-  description: A QoL Overhaul for Corporate Executives
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 6
-  enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Jamil-Corporate_Restructure\1.0.6\icon.png
-- manifestVersion: 1
   name: darksnakex-NoCorpseHigherQuota
   authorName: darksnakex
   websiteUrl: https://thunderstore.io/c/lethal-company/p/darksnakex/NoCorpseHigherQuota/
@@ -1785,9 +1741,8 @@
     major: 1
     minor: 0
     patch: 3
-  enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\Invertigo-JetpackHandling\icon.png
+  enabled: false
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Invertigo-JetpackHandling\1.0.3\icon.png
 - manifestVersion: 1
   name: BrotherPig-MountainDewMan_Suits
   authorName: BrotherPig
@@ -3147,3 +3102,95 @@
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Owen3H-CSync\icon.png
+- manifestVersion: 1
+  name: Ex0du5-TZPBluntReplacer
+  authorName: Ex0du5
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ex0du5/TZPBluntReplacer/
+  displayName: TZPBluntReplacer
+  description: Replaces the TZPInhalant with a blunt and makes it unlimited, 420 yo!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Ex0du5-TZPBluntReplacer\icon.png
+- manifestVersion: 1
+  name: x753-Peepers
+  authorName: x753
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/x753/Peepers/
+  displayName: Peepers
+  description: Adds a new non-lethal monster to the game with unique mechanics and
+    interactions.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 9
+    patch: 5
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\x753-Peepers\icon.png
+- manifestVersion: 1
+  name: SillySquad-Arachnophilia
+  authorName: SillySquad
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/SillySquad/Arachnophilia/
+  displayName: Arachnophilia
+  description: Makes several improvements to spiders, currently one new feature
+    with more to come. The mod also makes spiders very configurable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 5
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\SillySquad-Arachnophilia\icon.png
+- manifestVersion: 1
+  name: LethalMatt-Outpost_31
+  authorName: LethalMatt
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/LethalMatt/Outpost_31/
+  displayName: Outpost_31
+  description: A custom moon based on the set location of The Thing (1982).
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - IAmBatby-LethalLevelLoader-1.1.4
+    - Evaisa-LethalLib-0.14.2
+    - Major_And_Skiz-MoreInteriors-2.2.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 5
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\LethalMatt-Outpost_31\1.1.5\icon.png
