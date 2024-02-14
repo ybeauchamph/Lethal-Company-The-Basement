@@ -128,11 +128,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 7
-    patch: 6
+    minor: 8
+    patch: 1
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
-    Basement\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\notnotnotswipez-MoreCompany\1.8.1\icon.png
 - manifestVersion: 1
   name: EliteMasterEric-WackyCosmetics
   authorName: EliteMasterEric
@@ -565,8 +564,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 5
-    patch: 3
+    minor: 6
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
@@ -776,8 +775,9 @@
   authorName: Rune580
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
   displayName: LethalCompany_InputUtils
-  description: Utilities for creating InputActions and providing an (opinionated)
-    improved UI.
+  description: API/Library for creating Unity InputActions with in-game re-binding
+    support. Provides an alternative UI that allows for supporting mods to have
+    in-game re-bindable keybinds.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -790,7 +790,7 @@
   versionNumber:
     major: 0
     minor: 6
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
@@ -812,7 +812,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 25
+    patch: 37
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\HolographicWings-LethalExpansion\icon.png
@@ -829,14 +829,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - jockie-LethalExpansionCore-1.3.14
-    - HolographicWings-LethalExpansion-1.3.19
+    - HolographicWings-LethalExpansion-1.3.25
+    - sfDesat-ExpansionAssets-1.1.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
-    patch: 3
+    minor: 3
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\sfDesat-Orion\icon.png
@@ -1339,15 +1339,15 @@
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - x753-More_Suits-1.3.0
     - Verity-TooManySuits-1.0.4
+    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 11
+    patch: 12
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\happyfrosty-FrostySuits\icon.png
@@ -1486,10 +1486,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 8
-    patch: 6
+    minor: 9
+    patch: 1
   enabled: false
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-TooManyEmotes\1.8.6\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-TooManyEmotes\1.9.1\icon.png
 - manifestVersion: 1
   name: undefined-SlidingCompany
   authorName: undefined
@@ -1662,15 +1662,15 @@
   installMode: managed
   loaders: []
   dependencies:
-    - HolographicWings-LethalExpansion-1.3.21
     - BepInEx-BepInExPack-5.4.2100
-    - sfDesat-ExpansionAssets-1.0.0
+    - HolographicWings-LethalExpansion-1.3.25
+    - sfDesat-ExpansionAssets-1.0.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\sfDesat-Aquatis\icon.png
@@ -1850,13 +1850,13 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.11.1
-    - IAmBatby-LethalLevelLoader-1.0.7
+    - IAmBatby-LethalLevelLoader-1.1.4
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 3
     minor: 3
-    patch: 4
+    patch: 6
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Zingar-SecretLabs\icon.png
@@ -1875,14 +1875,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-HookGenPatcher-0.0.5
-    - IAmBatby-LethalLevelLoader-1.0.7
     - Evaisa-LethalLib-0.14.2
+    - IAmBatby-LethalLevelLoader-1.1.4
+    - Evaisa-HookGenPatcher-0.0.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
+    minor: 2
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -2109,14 +2109,14 @@
   installMode: managed
   loaders: []
   dependencies:
+    - Evaisa-LethalLib-0.14.2
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.13.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 7
+    minor: 1
+    patch: 6
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
@@ -2163,8 +2163,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 148
+    minor: 1
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\PotatoePet-AdvancedCompany\icon.png
@@ -2248,14 +2248,15 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - NotAtomicBomb-TerminalApi-1.5.0
-    - Evaisa-LethalLib-0.13.0
+    - Evaisa-LethalLib-0.14.2
+    - NotAtomicBomb-TerminalApi-1.5.1
+    - Owen3H-CSync-1.0.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 1
-    patch: 1
+    minor: 3
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\loaforc-FacilityMeltdown\icon.png
@@ -2479,13 +2480,13 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.11.1
-    - IAmBatby-LethalLevelLoader-1.0.7
+    - IAmBatby-LethalLevelLoader-1.1.4
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 6
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Zingar-Atlas_Abyss\icon.png
@@ -2502,14 +2503,14 @@
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - jockie-LethalExpansionCore-1.3.14
+    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 6
-    patch: 2
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\LethalMoonTeam-Ether\icon.png
@@ -2542,19 +2543,20 @@
   authorName: Magic_Wesley
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Acidir/
   displayName: Acidir
-  description: Acidir is a mysterious new moon set in a dark and deadly forest.
+  description: Acidir is a mysterious new moon set in a dark and deadly swamp.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
   loaders: []
   dependencies:
+    - jockie-LethalExpansionCore-1.3.15
     - BepInEx-BepInExPack-5.4.2100
-    - jockie-LethalExpansionCore-1.3.14
+    - Hardy-LCMaxSoundsFix-1.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
+    major: 3
     minor: 0
     patch: 0
   enabled: true
@@ -2572,14 +2574,15 @@
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - jockie-LethalExpansionCore-1.3.15
+    - BepInEx-BepInExPack-5.4.2100
+    - Hardy-LCMaxSoundsFix-1.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 5
-    patch: 2
+    major: 2
+    minor: 0
+    patch: 1
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Magic_Wesley-Infernis\icon.png
@@ -2600,7 +2603,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
+    minor: 1
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -2647,7 +2650,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
+    minor: 5
     patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
@@ -2670,7 +2673,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Gemumoddo-BadAssCompany\icon.png
@@ -2714,7 +2717,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Gemumoddo-Tf2Emotes\icon.png
@@ -2731,16 +2734,16 @@
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-HookGenPatcher-0.0.5
-    - IAmBatby-LethalLevelLoader-1.0.7
     - Evaisa-LethalLib-0.14.2
+    - Evaisa-HookGenPatcher-0.0.5
+    - BepInEx-BepInExPack-5.4.2100
+    - IAmBatby-LethalLevelLoader-1.1.4
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
+    major: 2
     minor: 3
-    patch: 2
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Major_And_Skiz-MoreInteriors\icon.png
@@ -2759,13 +2762,13 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.11.0
-    - IAmBatby-LethalLevelLoader-1.0.7
+    - IAmBatby-LethalLevelLoader-1.1.4
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 12
+    minor: 2
+    patch: 6
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Alice-ScarletDevilMansion\icon.png
@@ -2856,7 +2859,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 6
+    patch: 9
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
@@ -2925,7 +2928,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 8
+    patch: 9
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Justice69-ImmersiveScraps\icon.png
@@ -2941,14 +2944,15 @@
   installMode: managed
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - jockie-LethalExpansionCore-1.3.15
+    - BepInEx-BepInExPack-5.4.2100
+    - Hardy-LCMaxSoundsFix-1.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 3
-    patch: 4
+    major: 2
+    minor: 0
+    patch: 0
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\Magic_Wesley-Etern\icon.png
@@ -2957,10 +2961,10 @@
   authorName: LethalResonance
   websiteUrl: https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/
   displayName: LETHALRESONANCE
-  description: Immerse in 350+ enhanced audio tweaks and custom sounds for a
+  description: Immerse in 380+ enhanced audio tweaks and custom sounds for a
     scarier, deeper experience. Feel sound roll off objects, blending intense
     bass and subtle reverb for a captivating, immersive experience. Support us
-    by hitting the thumbs up! Now only 55MB
+    by hitting the thumbs up! Now only 60MB
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -2968,14 +2972,15 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Clementinise-CustomSounds-2.3.2
     - no00ob-LCSoundTool-1.5.1
+    - Hardy-LCMaxSoundsFix-1.0.0
+    - Clementinise-CustomSounds-2.3.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 3
+    major: 4
     minor: 0
-    patch: 0
+    patch: 7
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\LethalResonance-LETHALRESONANCE\icon.png
@@ -3040,14 +3045,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - loaforc-FacilityMeltdown-2.0.2
     - BGN-PizzaTowerEscapeMusic-2.3.0
+    - loaforc-FacilityMeltdown-2.0.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 5
+    patch: 6
   enabled: true
   icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
     Basement\BepInEx\plugins\LethalResonance-LETHAL_RESONANCE_MELTDOWN\icon.png
@@ -3095,4 +3100,50 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TanmanG-Forest_Giant_Motionsense\1.0.2\icon.png
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\TanmanG-Forest_Giant_Motionsense\icon.png
+- manifestVersion: 1
+  name: Hardy-LCMaxSoundsFix
+  authorName: Hardy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/
+  displayName: LCMaxSoundsFix
+  description: Simple mod that increase max number of simultaneous playing sounds,
+    hopefully fixing missing footsteps and other missing sound problems.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Hardy-LCMaxSoundsFix\icon.png
+- manifestVersion: 1
+  name: Owen3H-CSync
+  authorName: Owen3H
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Owen3H/CSync/
+  displayName: CSync
+  description: Configuration file syncing library for BepInEx.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: C:\Users\Yannick\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\The
+    Basement\BepInEx\plugins\Owen3H-CSync\icon.png
